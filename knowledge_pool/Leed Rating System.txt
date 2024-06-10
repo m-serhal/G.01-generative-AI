@@ -1,0 +1,7939 @@
+Leed Rating System for Green
+Buildings
+Course No: M06-015
+Credit: 6 PDH
+
+A. Bhatia
+
+Continuing Education and Development, Inc.
+9 Greyridge Farm Court
+Stony Point, NY 10980
+P: (877) 322-5800
+F: (877) 322-4774
+info@cedengineering.com
+
+LEEDTM RATING SYSTEM FOR GREEN BUILDINGS
+Building sector is witnessing a significant shift toward greening and sustainability. To reduce
+resource dependency and carbon footprint many organizations today are interested in designing
+their buildings to be LEED (Leadership in Energy and Environmental Design) certified; a
+designation developed by the U.S. Green Building Council (USGBC).
+Why Design Green?
+1. Buildings in the U.S. consume more than 30% of total energy and 60% of electricity
+annually.
+2. Buildings consume 5 billion gallons of potable water per day to flush toilets.
+3. A typical North American commercial construction project generates 2.5 pounds of solid
+waste per square foot of floor space.
+4. Studies of workers in green buildings reported productivity gains of up to 16%.
+5. About ¼ of the increase in carbon dioxide is due to the building sector, Energy efficiency
+may reduce this by 50%.
+6. Buildings consume 40% of raw stone, gravel and sand, and 25% of virgin wood.
+7. Building related sickness may cost between $60 and 400 billion per year.
+8. People spend as much as 90% of their time indoors.
+The Leadership in Energy and Environmental Design (LEED) Green Building Rating System
+encourages and accelerates global adoption of sustainable green building and development
+practices through the creation and implementation of universally understood and accepted tools
+and performance criteria. LEED-based green design not only makes a positive impact on public
+health and the environment, it also reduces operating costs, enhances building and
+organizational marketability, potentially increases occupant productivity, and helps create a
+sustainable community. The LEED Rating System typically recognizes performance in six key
+areas of human and environmental health:
+1.
+2.
+3.
+4.
+5.
+6.
+
+Sustainable Sites
+Water Efficiency
+Energy & Atmosphere
+Materials and Resources
+Indoor Environmental Quality
+Innovation & Design Process
+
+Factoids by LEED Category
+Sustainable Sites
+•
+
+Vehicles are responsible for approximately 20% of U.S. greenhouse gases annually.
+
+Water Efficiency
+•
+
+340 billion gallons of fresh water are withdrawn per day from rivers, streams, and
+reservoirs to support residential, commercial, industrial, agricultural, and recreational
+activities.
+
+•
+
+Almost 65% of water taken is discharged back to bodies of water after use.
+
+•
+
+Annual water deficiency for the US is 3,700 billion gallons.
+
+•
+
+US industries today use 36% less water than in 1950 due to reuse and Energy Policy
+Act of 1992 mandating water conserving plumbing.
+
+•
+
+Water consumption rose 6 fold in the last century – double the rate of population.
+
+Energy & Atmosphere
+•
+
+Coal-fired electric utilities produce almost 1/3 the total emission of nitrogen oxide by US
+citizens.
+
+•
+
+Fundamental commissioning can increase building energy efficiency from 5-10%.
+
+•
+
+Buildings with measurement and verification programs save 10 to 20% the electricity of
+buildings without.
+
+•
+
+“Lost Productivity” is equated with 20% of occupants complaining 30 minutes per month.
+
+•
+
+Occupancy sensors may save up to 60% of light energy costs in a building.
+
+Materials & Resources
+•
+
+4% of US old growth forest remains.
+
+•
+
+20% of the world’s large ancient forests remain intact.
+
+•
+
+90% of residential construction is wood.
+
+•
+
+40% of the waste stream is due to construction and demolition.
+
+•
+
+Recycling an aluminum can uses 5% of the energy needed to create a new can out of
+virgin mined aluminum.
+
+Indoor Environmental Quality
+•
+
+A well-designed day-lit building is estimated to reduce energy use by 50% to 80%.
+
+LEED certification
+LEED certification is obtained after submitting an application documenting compliance with the
+requirements of the rating system as well as paying registration and certification fees.
+Certification is granted solely by the Green Building Council responsible for issuing the LEED
+system used on the project. Fortunately, LEED is a very user-friendly system. In fact, a major
+contributor to the success of LEED is the simplicity of its credit/point-based the rating system.
+For each credit, the LEED standard identifies the detailed intent, requirements, and
+technologies or strategies to achieve the credit. One or more points are available within each
+credit, and points are achieved by meeting specified requirements.
+Different LEED versions have varied scoring systems based on a set of required "prerequisites"
+and a variety of "credits" in the six major categories listed above. In LEED version 2.2 (v2.2) for
+new construction and major renovations for commercial buildings there are 69 possible points
+and buildings can qualify for four levels of certification:
+1. Certified – 26 to 32 points
+2. Silver – 33 to 38 points
+3. Gold – 39 to 51 points
+4. Platinum – 52 to 69 points
+
+Clearly, higher levels of distinction are achieved based on the points accrued.
+Green building professionals can also become LEED accredited professional (LEED AP)
+through the LEED Accredited Professional Exam. LEED AP certification draws people from all
+walks of life and there is no prerequisite qualification required to challenge the exam. However
+don't make the mistake of assuming the LEED AP is a casual credential; it requires an in-depth
+of understanding of the prescribed material. Underestimating the level of knowledge required is
+the number one reason the test has such a high failure rate (20% - 35% first time pass rate).
+This course provides knowledge of LEED Rating System in easy Q & A format. The course
+includes seven sections covering a basic overview and the description of six LEED categories.
+This document is a constant work in progress and if you see something that should be in this
+list, please let us know.
+
+SECTION – 1
+OVERVIEW
+LEED is a national standard developed by the United States Green Building Council (USGBC)
+to certify sustainable buildings. Since its inception in 1998, LEED has grown to encompass over
+14,000 projects in 50 US States and 30 countries covering 1.062 billion square feet (99 km²) of
+development area. The hallmark of LEED is that it is an open and transparent process where
+the technical criteria proposed by the LEED committees are publicly reviewed for approval by
+the more than 10,000 membership organizations that currently constitute the USGBC.
+No. Questions
+
+Answers
+
+1
+
+What does LEED stand
+for?
+
+Leadership in Energy and Environmental Design.
+
+2
+
+What is LEED
+certification?
+
+LEED certification is a credit-based rating system, with
+different levels of certification awarded for various tiers of
+credits earned. Each credit is intended to address a specific
+environmental impact of a building. Certification is granted
+solely by the Green Building Council responsible for issuing
+the LEED system used on the project.
+
+3
+
+Why LEED certification?
+
+LEED rating demonstrates a commitment to sustainability by
+meeting the highest performance standards. LEED certified
+buildings have following benefits:
+•
+•
+•
+•
+•
+•
+•
+•
+
+4
+
+What are the various
+LEED programs?
+
+Use key resources more efficiently.
+Contribute to healthier work environment, higher
+productivity and comfort.
+Enhances asset value over time.
+Encourage innovation of new technologies, products,
+materials and equipment.
+Establish national leadership in the building industry
+and marketplace.
+Validate achievement through third party review
+process.
+Qualify for growing array of state and local
+government incentives.
+Contribute to growing green building knowledge base.
+
+LEED Rating Programs
+The USGBC operates 10 LEED Green Building Rating
+Programs for specific project types:
+•
+•
+•
+•
+•
+•
+
+LEED for New Construction (LEED-NC)
+LEED for Existing Buildings (LEED-EB)
+LEED for Commercial Interiors (LEED-CI)
+LEED for Core & Shell (LEED-CS)
+LEED for Schools
+LEED for Retail-New Construction
+
+•
+•
+•
+•
+
+LEED for Retail and Commercial Interiors
+LEED for Healthcare
+LEED for Homes
+LEED for Neighborhood Development
+
+LEED-NC (for New Construction) v2.2 is the most widely
+used standard.
+5
+
+What are the various
+categories to which
+LEED credits are
+assigned?
+
+LEED rating system awards points in six (6) categories.
+LEED Categories
+
+Points
+
+Contribution
+
+1. SS – Sustainable Sites:
+2. WE - Water Efficiency:
+3. EA - Energy and
+Atmosphere:
+4. MR - Materials and
+Resources:
+5. EQ - Indoor
+Environmental Quality:
+6. ID – Innovation and
+Design Process:
+Total
+
+14
+5
+17
+
+20%
+7%
+25%
+
+13
+
+19%
+
+15
+
+22
+
+5
+
+7%
+
+69
+
+100%
+
+There are 69 total LEED points.
+Energy and Atmosphere category is the largest contribution of
+25%. The project team can select which credits are most
+relevant to their project, since not all credits are always
+attainable for all projects.
+6
+
+What is defined in each
+category?
+
+Depending on the nature and use of the building, each rating
+category has prerequisites and credits. There are NO points
+awarded for prerequisites but these must be completed. To
+prerequisites there are numerous credits with points assigned
+to each. Arrange prerequisites and points in ascending order
+and learn word “WIMSEE” to remember LEED requirements:
+Categories
+Water
+Efficiency
+Innovation and
+Design
+Process
+Materials and
+Resources
+Sustainable
+Sites
+Indoor
+Environmental
+Quality
+Energy and
+Atmosphere
+
+Acronym
+
+Prerequisites
+
+Points
+
+Credits
+
+W
+
+0
+
+5
+
+3
+
+I
+
+0
+
+5
+
+2
+
+M
+
+1
+
+13
+
+7
+
+S
+
+1
+
+14
+
+8
+
+EQ
+
+2
+
+15
+
+8
+
+EA
+
+3
+
+17
+
+6
+
+7
+
+What is the point
+structure for LEED-NC
+ratings?
+
+The level of LEED certification obtained is determined by the
+number of credits achieved.
+Four LEED certification levels are available:
+1)
+2)
+3)
+4)
+
+Certified :
+Silver :
+Gold
+Platinum
+
+26 – 32 points
+33 – 38 points
+39 – 51 points
+52 – 69 points
+
+Note that each rating program is unique in the number of
+points required to achieve the levels. For example, LEED for
+New Construction or LEED-NC requires 26 points for
+Certified, 33 points for Silver, 39 points for Gold, and 52
+points for platinum. A brief overview of the categories and
+examples of how credits are achieved (LEED-NC) is provided
+in subsequent sections. Consult the LEED rating programs
+(www. usgbc.org) for specific details about each available
+credit including possible methods to achieve the points.
+8
+
+What is the minimum
+credit rating required for
+LEED-NC certification?
+
+The project is a viable candidate for LEED Certification if it
+can meet all prerequisites and achieve a minimum of 26
+points.
+
+9
+
+What must first be
+satisfied to achieve
+points in most
+categories?
+
+Prerequisites.
+
+Can a project be certified
+without satisfying all
+prerequisites?
+
+NO.
+
+What is included in the
+pre-requisites?
+
+Each prerequisite defines:
+
+10
+
+11
+
+12
+
+13
+
+What should you know
+about Pre-requisites?
+
+What is included in the
+Credits?
+
+Prerequisites are applicable to most categories, but not all
+(for example “Water Efficiency” and “Innovation and Design
+Process”).
+
+All prerequisites must be satisfied for a project to be certified.
+
+•
+•
+•
+•
+•
+
+Intent
+Requirements
+Documentation
+Referenced Standards
+Design or Construction Phase Submission
+
+•
+
+There are 7 prerequisites which are not evenly
+distributed among the (6) categories. ALL
+prerequisites must be earned in order to earn any
+credits. Even if you score well over the number of
+credits required, just missing one prerequisite will
+mean that your project will not qualify for any
+certification level.
+
+•
+
+There are NO points awarded for prerequisites
+
+Each credit/point defines:
+•
+•
+
+Intent
+Requirements
+
+•
+•
+•
+14
+
+What should you know
+about Credits?
+
+Documentation
+Referenced Standards
+Design
+or
+Construction
+Performance level if any
+
+Phase
+
+Absolutely know all the percentages and
+performance required for each LEED credit.
+
+Exemplary
+levels
+
+of
+
+Also note that while EA credit 1 (energy optimization) is not a
+pre-requisite, it is mandatory to earn at least two points.
+Whether LEED
+certification achieved
+through self evaluation?
+
+NO
+
+16
+
+How many user-defined
+innovative design credits
+are available?
+
+4 points
+
+17
+
+LEED for New
+Construction (NC) was
+developed as a rating
+system targeted at what
+types of projects?
+
+New commercial construction and major renovations.
+
+18
+
+LEED for Commercial
+Interiors (CI) was
+developed as a rating
+system targeted at what
+types of projects?
+
+Tenant and designer implemented improvements.
+
+19
+
+LEED for Existing
+Buildings (EB) was
+developed as a rating
+system targeted at what
+types of projects?
+
+The implementation of sustainable operations and
+maintenance practices for owners and operators of existing
+buildings.
+
+20
+
+Who grants the LEED
+certification?
+
+Certification is granted solely by the Green Building Council
+responsible for issuing the LEED system used on the project.
+
+21
+
+What is LEED
+certification process?
+
+The typical certification is a three-step process for projects
+under USGBC:
+
+15
+
+Third-party review for certification is required.
+
+•
+
+•
+
+•
+22
+
+What is the first step
+
+Project Registration
+LEED on-line, LEED templates/project check list,
+submittals etc.
+Technical Review & Support
+Reference package, credit inquires and interpretation
+rulings.
+Building Certification Award
+Upon documentation submittal and USGBC review.
+
+The first step toward earning LEED Certification is online
+
+towards LEED
+certification?
+
+registration via USGBC website (prior to construction).
+Once registered, project teams receive information, tools, and
+communication that will help guide through the certification
+process. Registration provides access to 4 sections of Credit
+Templates:
+•
+•
+•
+•
+
+23
+
+24
+
+How much fee is
+applicable towards
+registration?
+When should you
+register?
+
+Template status
+Manage template
+Required documents
+Documentation status
+
+LEED registration is a flat fee paid up front at the time of
+registration. The rates are:
+•
+•
+•
+•
+
+•
+
+Members $450.00
+Non-Members $600.00
+Registration during early phases of project design
+ensures maximum potential for achieving certification.
+Registration establishes point of contact with USGBC
+and provides access to essential information, software
+tools and communications.
+Registration also provides access to a database of
+existing Credit Interpretation Requests and Rulings.
+
+25
+
+What feature of NC v2.2
+allows for split submittal
+of credits for review?
+
+Web-based LEED Online submittals.
+
+26
+
+What is the procedure for
+LEED certification?
+
+LEED certification is obtained after submitting an application
+documenting compliance with the requirements of the rating
+system as well as paying registration and certification fees. A
+project must satisfy all prerequisites and earn a minimum
+number of points outlined in the LEED Rating System under
+which it is registered.
+The certification review process includes the following:
+•
+•
+•
+•
+•
+
+27
+
+What are the
+requirements of
+application submittal?
+
+Application Submittal
+Administrative Review
+Technical Review
+Award
+Schedule
+
+The project team submits two copies of the project application
+and the corresponding fee to the LEED Certification Manager.
+A complete application includes the following:
+•
+
+The printed LEED Letter Template and requested
+submittals for each prerequisite and credit, separated
+by tabs (LEED Version 2.1 Letter Template Excel
+document is required on a CD for Version 2.1
+submittals).
+
+•
+
+LEED
+
+registration
+
+information,
+
+including
+
+project
+
+contact, project type, project size, number
+occupants, date of construction completion, etc.
+•
+
+of
+
+A complete LEED-Online submittal must include the
+following:
+o
+
+Overall project narrative including at least
+three project highlights.
+
+o
+
+The LEED Project Checklist/Scorecard
+indicating projected prerequisites and credits
+and the total score for the project (If mixed
+submittal, LEED v2.0 credits are to be noted
+as such in LEED v2.1 Letter Template Credit
+Summary or similar format.); and
+
+o
+
+Drawings and photos (8.5x11 or 11x17)
+illustrating the project, including:
+-
+
+Site plan
+Typical floor plan
+Typical building section
+Typical or primary elevation
+Photo or rendering of the project
+
+28
+
+Explain the
+Administrative Review
+Process.
+
+An administrative compliance review is made by USGBC's
+LEED committee and takes almost a week after the receipt of
+the application. Each document is reviewed for compliance
+and completeness. If the documentation is insufficient, the
+project contact is notified of the deficiencies. The technical
+review begins when the issues raised by the administrative
+review are resolved.
+
+29
+
+Explain the Technical
+Review Process.
+
+Within two weeks of administrative approval, the USGBC
+issues a Preliminary LEED Review document noting points
+earned, pending and rejected. The project team has 30 days
+from the receipt of the preliminary review to provide
+corrections and/or additions to the application. The USGBC
+conducts a Final LEED Review of the application within 30
+days of receiving the resubmittal and recommends a final
+application score to the LEED Steering Committee. The
+LEED Steering Committee accepts or rejects the
+recommended final application score within two weeks of
+receipt and notifies the project contact of the LEED
+Certification.
+
+30
+
+Explain the LEED
+certification Award
+process.
+
+Upon notification of the LEED Certification, the project team
+has 30 days to accept or appeal the awarded certification.
+Upon the project’s acceptance, or if it has not appealed the
+rating within 30 days, the LEED Certification is final. The
+project may then be referred to as a LEED Certified Green
+Building. The USGBC presents the project team with a
+certificate and a metal LEED plaque indicating the
+certification level. The appeal fee is $500 per credit
+
+appealed.
+31
+
+What is the submittal
+schedule for
+documentation?
+
+Once a project is registered, the project team begins to
+prepare documentation and calculations to satisfy the
+prerequisite and credit submittal requirements.
+LEED NC V2.2 defines the submittal schedule as follows:
+Categories
+
+Credits
+
+Submittals Stage
+
+W
+
+3
+
+All Design
+
+Innovation and
+Design
+Process
+
+I
+
+2
+
+Design – 1Cs
+Construction – 2C
+
+Materials and
+Resources
+
+M
+
+7
+
+All Construction
+
+Sustainable
+Sites
+
+S
+
+8
+
+All Design except
+Construction C5.1, C7.1
+
+Water
+Efficiency
+
+32
+
+How much time does it
+take for certification
+process?
+
+Acronym
+
+P1,
+
+Indoor
+Environmental
+Quality
+
+EQ
+
+8
+
+All Design except C3s
+and C4s
+
+Energy and
+Atmosphere
+
+EA
+
+6
+
+All Design except– P1,
+C3, C5, C6
+
+The number of business days allocated to each phase in the
+Certification Process:
+•
+•
+•
+•
+•
+
+Prelim Review by USGBC (25 business days)
+Project Team Response (25 business days)
+Final Review by USGBC (15 business days)
+Appeal by Project Team (25 days)
+Review of Appeal by USGBC (25 days)
+
+The official certification date of the project is the date USGBC
+receives notice of a project team's acceptance of the Final
+LEED Review. USGBC will then contact the project team
+regarding fulfillment details, including their certificate and
+LEED plaque.
+33
+
+Can the certification
+schedule be
+compressed?
+
+The USGBC offers a compressed review schedule to
+accommodate project dedications, media events or other
+celebrations. The project’s specific time constraint must be
+noted at the time of application and accompanied by a check
+for double the certification fee.
+The RUSH schedule is two weeks for Preliminary LEED
+Review, two weeks for the project to resubmit for final review,
+and two weeks for Final LEED Review (for a minimum of 6
+weeks from receipt of the complete project application).
+
+34
+
+Do you have to pay
+additional fees for LEED
+
+YES.
+
+certification?
+
+The certification fee is based on the rating system that the
+project is certifying (NC, EB, CS, etc.), and the size of the
+project. The table below outlines the rates.
+Category
+
+Less than
+50,000 Square
+Feet
+
+50,000-500,000
+Square Feet
+
+More than
+500,000
+Square Feet
+
+LEED for: New
+Construction,
+Commercial
+Interiors,
+Schools, and
+Core & Shell
+full certification
+
+Fixed Rate
+
+Based on
+Square
+Footage
+
+Fixed Rate
+
+Members
+
+$1,250.00
+
+$0.025 / sq-ft
+
+$12,500.00
+
+Non-Members
+
+$1,500.00
+
+$0.030 / sq-ft
+
+$15,000.00
+
+Design Review
+
+Construction Review
+Members
+
+$500.00
+
+$0.010 / sq-ft
+
+$5,000.00
+
+Non-Members
+
+$750.00
+
+$0.015 / sq-ft
+
+$7,500.00
+
+Combined Design & Construction Review
+Members
+
+$1,750.00
+
+$0.035 / sq-ft
+
+$17,500.00
+
+Non-Members
+
+$2,250.00
+
+$0.045 / sq-ft
+
+$22,500.00
+
+Certification fee is waived, if project receives Platinum LEED
+Certification.
+35
+
+36
+
+37
+
+Do you get LEED credits
+after design phase?
+
+NO
+After design phase - USGBC marks each credit as credit
+anticipated or credit denied. They cannot actually reward
+credits after the design phase.
+
+Do you get LEED credits
+after construction phase?
+
+YES
+
+What is a CIR?
+
+Credit Interpretation Request
+
+After construction phase - USGBC makes a ruling on each
+credit as credit achieved or credit denied.
+
+In some cases, project teams may encounter questions about
+meeting the requirements of a LEED prerequisite or credit on
+a specific project. If it is unclear whether or not a strategy
+applies to a given credit, a credit interpretation request (CIR)
+can be submitted and the ruling will determine the suitability
+of the approach.
+38
+
+When should you submit
+a CIR?
+
+The recommended procedure for reviewing credit questions is
+outlined below:
+•
+
+Consult the LEED Reference Guide for a detailed
+description of the credit intent and requirements.
+
+•
+
+Check online resource for previous logged CIR by
+
+other projects on relevant credits first. All LEED
+project contacts have access to this page.
+•
+
+Only if a similar credit interpretation has not been
+logged or does not answer your inquiry sufficiently,
+then a new CIR via LEED-Online should be submitted.
+
+39
+
+How much time it takes
+for CIR?
+
+Normally, an official ruling by the USGBC Credit Ruling
+Committee will be posted to the Credit Interpretation Rulings
+page within three weeks.
+
+40
+
+Who is eligible to raise a
+CIR?
+
+CIRs can only be requested by LEED Registered Project
+Team Members.
+
+41
+
+Is there a fee for CIR?
+
+2 interpretation rulings are provided for free through the
+USGBC.
+Each additional CIRs attracts fees of $220.
+
+42
+
+Who can view the CIRs?
+
+CIRs can be viewed by all USGBC members, non-members
+with registered projects, and workshop attendees.
+
+43
+
+When submitting a CIR
+what should you focus
+on?
+
+CIRs should be succint and based on information found in the
+Reference Guide, with emphasis on the intent of the
+prerequisite or credit. If possible the project team should offer
+potential solutions to the problem.
+•
+
+Each CIR should refer to only one LEED credit and
+one primary related strategy.The inquiry should only
+include essential project strategy and background
+information and should be presented in the context of
+the credit intent (600 words maximum). When you
+submit a credit for consideration for which you have
+made a CIR ruling request, include both the request
+and the ruling with your submission.
+
+•
+
+Submissions of drawings, cut-sheets,
+attachments are NOT permitted.
+
+Does project receive a
+credit point at the time
+the CIR request is
+approved?
+
+NO
+
+45
+
+If you are unclear about a
+credit, where do you look
+first?
+
+Reference Guide
+
+46
+
+What are the different
+avenues of technical
+assistance for
+interpreting LEED?
+
+44
+
+or
+
+other
+
+CIR rulings will never guarantee or award any credits - it just
+provides specific information regarding applicability.
+The CIR request and ruling must be submitted with the other
+relevant LEED Online documentation.
+
+•
+•
+•
+
+LEED Reference Guide
+Access to Posted Credit Interpretation Rulings
+LEED Training Workshop
+
+47
+
+Can project team appeal
+against the award ruling?
+
+YES
+If a project team feels that sufficient grounds exist to appeal a
+credit that has been denied in the Final LEED Review, it has
+the option to appeal.
+•
+
+Appeals are $500 per credit.
+
+•
+
+You have 25 days to appeal after Final LEED Review.
+
+•
+
+Appeal submittals are all done via LEED-Online.
+
+•
+
+Because review will be done by a different review
+team, appeals must include the LEED registration
+information, including project contact, project type,
+project size, number of occupants, date of
+construction
+completion,
+and
+other
+relevant
+documents submitted during the certification process.
+
+48
+
+What does LEED AP
+mean?
+
+AP stands for accredited professional. This certification is for
+any building professional who has successfully passed the
+LEED accredited professional status examination.
+
+49
+
+Does the LEED-AP on
+the design team sign the
+Letter Templates?
+
+Only when they are the responsible party for the credit.
+
+50
+
+How are the LEED AP
+exams administered?
+
+The LEED AP exams are administered in the US and
+territories by the Green Building Certification Institute (GBCI).
+The computer based exam is given in a multiple-choice
+format and is administered at computer testing centers.
+Examinees may choose to take one of the three different
+exam tracks (New Construction, Existing Buildings, or
+Commercial Interiors).
+
+51
+
+How is LEED AP Exam
+Structured?
+
+There are 4 basic “sections” within the LEED AP Exam format
+that you’ll be tested on:
+•
+•
+•
+•
+
+Knowledge of LEED Credit Intents and Requirements
+Coordinate Project and Team
+Implement LEED Process
+Verify, Participate in, and Perform Technical Analysis
+Required for LEED Credits
+
+The exam will test your knowledge of LEED standards,
+synergies, strategies and intent.
+52
+
+53
+
+What are the different
+exam tracks for the
+current LEED exams?
+
+There are three different exam tracks for the LEED AP. You
+only need to pass one to earn your credential.
+
+What will the different
+specialty exam tracks be
+
+There will be five different specialty exam tracks for the
+upcoming LEED AP+ credentialing program. You only need
+
+•
+•
+•
+
+LEED for New Construction, version 2.2
+LEED for Commercial Interiors, version 2.0
+LEED for Existing Buildings, version 2.0
+
+for the new upcoming
+LEED AP+ credentialing
+program?
+
+to pass one to earn your credential.
+•
+
+LEED AP+ Building Design and Construction exam
+(formerly called the LEED for New Construction exam)
+
+•
+
+LEED AP+ Interior Design and Construction exam
+(formerly called the LEED for Commercial Interiors
+exam)
+
+•
+
+LEED AP+ Operations and Maintenance exam
+(formerly called the LEED for Existing Buildings exam)
+
+•
+
+LEED AP+ Homes exam (this is a new exam track)
+
+•
+
+LEED AP+ Neighborhood Development exam (this is
+a new exam track)
+
+Please note that you will need to take and pass the LEED
+Green Associate exam prior to, or in conjunction with, a
+specialty exam in order to qualify for the LEED AP+
+credential.
+54
+
+Which exam track should
+I take?
+
+It is best to take the exam track that covers topics you are
+familiar with. To learn more about each exam track visit the
+GBCI website.
+
+55
+
+Who can become LEED
+AP?
+
+Commonly engineers or architects who have studied LEED
+requirements, goals and strategies, but there are no
+experience requirements. Anybody can take the exam.
+Individuals recognized for their knowledge of the LEED rating
+system are permitted to use the LEED Accredited
+Professional (AP) acronym after their name, indicating they
+have passed the accreditation exam.
+
+56
+
+How do I apply to take a
+LEED AP exam?
+
+To register go to the GBCI website and download the
+Candidate Handbook to get information about scheduling,
+exam preparation, test-day procedures, and more. The
+Candidate Handbook will provide you with information on how
+to schedule an appointment at a testing center near you. The
+appointments are given on a first come first serve basis.
+
+57
+
+What is the format and
+time limit?
+
+The current LEED exams are computer-based and multiple
+choice. You are allowed to complete the exam in two hours.
+The exam is closed book.
+
+58
+
+How is the exam scored?
+
+The exam is graded by computer.
+You must pass a 100 question exam and receive a score of
+170/200 points.
+
+59
+
+What does LEED AP do?
+
+This accreditation enables an individual to facilitate the rating
+of buildings with the various LEED systems. LEED accredited
+professionals guide design and construction teams through
+the LEED process and offer ideas and strategies in achieving
+LEED ranking.
+
+60
+
+What reference books
+are available?
+
+The LEED-NC Reference Guide V 2.2 – This contains
+extensive background information and detailed guidance for
+meeting the requirements LEED for New Construction. The
+guide contains every LEED point in detail and includes not
+only information on fulfilling the requirements of the rating
+system, but also case studies, calculation methods, and other
+resources.
+There are going to be quite a few questions dealing with “who
+does what”, or how the certification process works, which isn’t
+directly mentioned in the reference guide. Many of these
+answers are found online at the USGBC website - you just
+have to fish for them.
+
+61
+
+Is there an International
+LEED Rating System?
+
+The World Green Building Council has been developed to
+represent Green Building Councils throughout the world.
+There are currently nine member countries six of which have
+their own rating systems.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+62
+
+What is difference
+between certification and
+accrediting?
+
+United States – LEED
+Canada – LEED Canada
+United Kingdom – BREEAM
+India – LEED India
+Japan – CASBEE (Comprehensive Assessment
+System for Building Environmental Efficiency)
+Mexico
+New Zealand
+Taiwan
+United Arab Emirates
+
+People are accredited, buildings are certified.
+
+SECTION – 2
+SUSTAINABLE SITES
+Sustainability is a holistic approach to designing and building. The main goals of sustainable
+design are to reduce depletion of resources including energy, water, and raw materials;
+minimize environmental damage caused by buildings and facilities throughout their life; and
+create better building environments. In a rather simplistic explanation, sustainable practices
+tend to promote energy efficiency and the use of products that are safer, renewable/ recyclable
+and reduce harmful waste in their production. The local climate, geography and socio economic
+factors all have to be taken into account when designing a green sustainable building. For
+example, take a case of straw bale wall construction in a region devoid of straw. Sure, the wall
+will function well from an insulating stand point but if you trucked in the straw bales from
+hundreds/ thousands of miles or airlifted it in, how sustainable was that? Imagine all the fuel
+burned and the pollutants released. If there was an abundance of soil and concrete, rammed
+earth could have been better choice.
+Achieving an effective sustainable design requires a collaborative process engaging the multiple
+design disciplines, as well as users, construction managers, contractors and facility managers.
+The merging of ideas, perspectives and areas of expertise facilitated by an open
+communications process reaps multiple benefits, as the project team moves from the
+optimization of single systems in isolation to the optimization of the entire building enterprise.
+Establishing vertical support throughout the organization helps ensure success.
+This category of credits is intended to reduce environmental damage, pollution and other
+harmful effects due to building construction.
+No.
+
+Questions
+
+Answers
+
+1
+
+What do SS stand for?
+
+Sustainable Sites
+
+2
+
+What are the goals of
+Sustainable Development?
+
+3
+
+How many prerequisites,
+credits and points are there in
+the Sustainable Sites?
+
+•
+•
+•
+•
+
+Maintain and restore site biodiversity.
+Minimize site development footprint.
+Reduce storm water run-off.
+Eliminate toxic chemical application for pest
+and vegetative control.
+• Optimize design for the local micro-climate
+and reduce dependence on mechanical
+systems for building operations.
+• Reduce reliance on single-occupancy
+vehicles.
+• Integrate design and orient building to take
+advantage of local micro-climate for heating,
+cooling, shading, ventilation and daylighting.
+• Eliminate light trespass from the building site,
+improve night sky access, and reduce
+development
+impact
+on
+nocturnal
+environments.
+Prerequisite – 1
+Credits - 8
+Points - 14
+
+No.
+
+Questions
+
+Answers
+
+4
+
+Name the Prerequisites in the
+SS Section
+
+SS P1 – Construction Activity Pollution Prevention
+
+5
+
+Name the Credits in the SS
+Section
+
+SS Credit 1 – Site Selection (1 point)
+SS Credit 2 – Development Density and Community
+Connectivity (1 point)
+SS Credit 3 – Brownfield Development (1 point)
+SS Credit 4 – Alternative Transportation (4 points)
+SS Credit 5 – Site Development (2 points)
+SS Credit 6 – Stormwater Design (2 points)
+SS Credit 7 – Heat Island Effect (2 points)
+SS Credit 8 – Light Pollution Reduction (1 point)
+
+6
+
+What percentage SS
+contributes to overall LEED
+credit points?
+
+20% [14 / 69 x 100]
+
+SS PREREQ
+7
+
+How many prerequisites, are
+there in the Sustainable Sites?
+
+One
+
+8
+
+SS PREREQ 1
+
+Construction Activity Pollution Prevention
+
+What is the SS prerequisite 1?
+9
+
+SS PREREQ 1
+What is the intent of the SS
+prerequisite?
+
+10
+
+Reduce pollution from construction activities by
+controlling
+•
+•
+•
+
+Soil erosion
+Waterway sedimentation and
+Airborne dust generation
+
+SS PREREQ 1
+
+Option 1
+
+What are the requirements and
+the documents that define best
+management practices for the
+SS prerequisite?
+
+Create and implement an Erosion and Sedimentation
+Control (ESC) Plan for all construction activities
+associated with the project that conforms to the
+erosion and sedimentation requirements of the 2003
+EPA Construction General Permit [ refer EPA
+Document No. EPA 832R92005, Storm Water
+Management for Construction Activities, Chapter 3]
+Option 2
+Local erosion and sedimentation control standards
+and codes, whichever is more stringent. Prepare a
+Site Access and Utilization Plan to minimize site
+disruption associated with the project's construction
+phase.
+
+No.
+
+Questions
+
+11
+
+SS PREREQ 1
+An erosion and sedimentation
+control plan must meet what
+objectives?
+
+Answers
+•
+•
+•
+•
+
+12
+
+13
+
+SS PREREQ 1
+
+Prevent loss of soil during construction.
+Preventing run-off from entering aquatic
+bodies with potential for sedimentation
+Prevent human exposure to waterborne
+pollutants and toxic chemicals
+Prevent dispersion of dust and particulate
+matter that can exacerbate respiratory
+illnesses.
+
+Ways to control erosion and sedimentation:
+
+What are strategies that might
+be incorporated into a site
+erosion and sedimentation
+control plan?
+
+•
+
+•
+
+Stabilization: i.e. seeding and mulching
+Structural: i.e. silt fences, earth dikes,
+sediment traps
+
+SS PREREQ 1
+
+•
+•
+
+EPA 2003
+NPDES
+
+What codes and standards
+apply to SS prerequisite 1?
+SS CREDITS
+How many credits are there in
+the Sustainable Sites?
+
+8 credits
+
+15
+
+What do SS Credits
+emphasize?
+
+SS credits emphasize the environmental impact of
+the structure that is impacted by site selection and
+management. These are earned by minimizing
+pollution sources, building into an existing urban
+area, conserving undeveloped land, promoting
+natural habitats, encouraging methods of alternative
+transportation,
+managing
+stormwater,
+and
+diminishing the temperature differences between
+developed and undeveloped areas.
+
+16
+
+SS CREDIT 1
+
+Site Selection
+
+14
+
+SS Credit 1 – Site Selection (1 point)
+SS Credit 2 – Development Density and Community
+Connectivity (1 point)
+SS Credit 3 – Brownfield Development (1 point)
+SS Credit 4 – Alternative Transportation (4 points)
+SS Credit 5 – Site Development (2 points)
+SS Credit 6 – Stormwater Design (2 points)
+SS Credit 7 – Heat Island Effect (2 points)
+SS Credit 8 – Light Pollution Reduction (1 point)
+
+What is SS Credit 1 called?
+17
+
+SS CREDIT 1
+What is the intent of the Site
+
+•
+•
+
+To avoid development of inappropriate sites
+To reduce the environmental impact from the
+location of a building on a site.
+
+No.
+
+Questions
+
+Answers
+
+Selection Credit?
+18
+
+SS CREDIT 1
+What are some strategies to
+consider minimizing site
+disruption?
+
+19
+
+SS CREDIT 1
+
+Give preference to sites that are not environmentally
+sensitive or restrictive land types. Set aside large
+contiguous areas for natural space on the project site
+to minimize disruption of environmentally sensitive
+areas. Stacking the building program, tuck-under
+parking, and share facilities with neighbors in order
+to limit the development footprint and site
+disturbance to the smallest area possible
+One
+
+How many points are available
+for Site Selection?
+20
+
+SS CREDIT 1
+What are some characteristics
+of sites inappropriate for
+sustainable development?
+
+DO NOT develop on sites:
+•
+
+•
+•
+•
+•
+•
+
+21
+
+SS CREDIT 2
+
+Below 5 ft above the 100 year flood elevation
+as defined by FEMA (Federal Emergency
+Management Agency).
+Within 100 ft of Wetlands as defined by CFR
+(Code of Federal Regulations).
+Prime farmland as defined by USDA (U.S.
+Department of Agriculture).
+Within 50 ft of a water body (lakes, seas,
+rivers, etc.) Comply with Clean Water Act.
+Habitat for any endangered or critical
+species.
+Public parkland (Park Authority projects are
+exempt).
+
+Density Development and Community Connectivity
+
+What is SS Credit 2 called?
+22
+
+SS CREDIT 2
+What is the intent of the
+Development Density and
+Community Connectivity
+Credit?
+
+23
+
+SS CREDIT 2
+How many points are available
+for the Density Development
+and Community Connectivity
+Credit?
+
+•
+•
+
+One
+
+To channel development to urban areas with
+existing infrastructures
+Protect green fields and preserve habitat and
+natural resources.
+
+No.
+
+Questions
+
+Answers
+
+24
+
+SS CREDIT 2
+
+60,000 sq-ft per acre (roughly equivalent to 2- story
+downtown development)
+
+What minimum site density
+determines that a site will
+qualify as Density
+Development?
+25
+
+SS CREDIT 2
+
+Construct or renovate building:
+
+What are the requirements for
+Community Connectivity?
+
+•
+and
+•
+and
+•
+
+and
+•
+26
+
+SS CREDIT 2
+What are some examples of
+basic services?
+
+27
+
+28
+
+29
+
+On a previously developed site
+Within ½ mile of a residential zone with an
+average density of 10 units per acre net
+Within 1/2 mile of at least 10 Basic Services
+o Banks, churches, restaurants (2
+allowed), stores, etc.
+o do not include undeveloped areas
+(parks, water bodies)
+With pedestrian access between building and
+services.
+
+Banks, Places of Worship, Convenience Grocery,
+Day Care, Cleaners, Fire Station, Beauty, Hardware,
+Laundry, Library, Medical/Dental, Senior Care
+Facility, Park, Pharmacy, Post Office, Restaurant,
+School, Supermarket, Theater, Community Center,
+Fitness Center, Museum.
+
+SS CREDIT 3
+
+Brownfield Redevelopment
+
+What is SS Credit 3 called?
+
+[This credit happens to be one of the most expensive
+to implement. Thusly there are many government
+incentives / tax breaks to help].
+
+SS CREDIT 3
+
+•
+
+What is the intent of the
+Brownfield Redevelopment
+Credit?
+
+•
+
+SS CREDIT 3
+
+Rehabilitate
+damaged
+sites
+where
+environmental development is complicated by
+environmental contamination.
+Reduce pressure on undeveloped land.
+
+One
+
+How many points are available
+for Brownfield
+Redevelopment?
+30
+
+Develop on a site documented as contaminated (by
+What is required for Brownfield means of an ASTM E1903- 97 phase II
+SS CREDIT 3
+
+No.
+
+Questions
+
+Answers
+
+Redevelopment Credit?
+
+Environmental Site Assessment or a local Voluntary
+Cleanup Program)
+Or
+On a site classified as a Brownfield and effectively
+provide remediation.
+
+31
+
+•
+•
+•
+•
+
+SS CREDIT 3
+What standards classify a site
+as a Brownfield?
+
+32
+
+SS CREDIT 3
+What determines Brownfield
+redevelopment procedures?
+
+33
+
+SS CREDIT 3
+What submittals are needed to
+attain credit for Brownfield
+Redevelopment?
+
+A local, state or federal government agency
+ASTM E1903-97
+EPA Brownfield definition
+CERCLA (Comprehensive Environmental
+Response, Compensation, and Liability Act,
+aka. SUPERFUND)
+
+EPA Sustainable Redevelopment of Brownfields
+Program.
+In providing requirements for classification of the
+Brownfield Redevelopment Credit, Federal EPA
+headquarters prepares the letter for confirmation.
+Confirmation that the project site was determined
+contaminated by means of an ASTM E1903-97
+Phase II Environmental Site Assessment
+OR
+That the site was defined as a brownfield by a local,
+state or federal government agency
+And
+A detailed narrative describing the site contamination
+and remediation efforts undertaken by the project.
+
+34
+
+SS CREDIT 4
+
+Alternative Transportation
+
+What is SS Credit 4 called?
+35
+
+SS CREDIT 4
+What is the intent of the
+Alternative Transportation
+Credit?
+
+36
+
+SS CREDIT 4
+How many points are available
+for Alternative Transportation?
+
+•
+•
+
+Reduce Pollution from auto use
+Reduce land development from auto use
+
+Four
+SS credit 4.1: Alternative Transportation - Public
+Transportation Access
+SS credit 4.2: Alternative Transportation – Bicycle
+Storage and Changing Rooms
+SS credit 4.3: Alternative Transportation – Low
+Emission and Fuel Efficient Vehicles
+
+No.
+
+Questions
+
+Answers
+SS credit 4.4: Alternative Transportation – Parking
+Capacity
+
+37
+
+38
+
+What is Credit 4.1?
+
+Promotes the use of mass transit and reduce
+reliance on automobiles.
+
+SS CREDIT 4.1
+
+Locate project:
+
+SS CREDIT 4.1
+
+What is required for Credit
+4.1?
+
+•
+•
+
+39
+
+SS CREDIT 4.2
+
+within 1/2 mile from commuter rail, light rail,
+or subway station
+within 1/4 mile from two or more public or
+campus bus lines usable by building
+occupants.
+
+Promotes the use of bicycles.
+
+What is Credit 4.2?
+40
+
+SS CREDIT 4.2
+
+For commercial/institutional buildings
+
+What is required for Credit
+4.2?
+
+Provide secure bicycle racks and storage (within 200
+yards of the Building) for 5% or more of regular
+building users (measured at peak periods)
+And
+Provide changing/shower facilities within 200 yards
+of a building entrance for 0.5% of Full-Time
+Equivalent (FTE) occupants
+For residential buildings
+Provide covered storage facilities for securing
+bicycles for 15% or more of building occupants in
+lieu of changing/shower facilities.
+And
+Ensure that that the bicycle storage location is within
+200 yards of the building entrance.
+
+41
+
+SS CREDIT 4.2
+What is specific requirement
+for Credit 4.2?
+
+This is the first credit that deals with FTE (Full-Time
+Equivalent) occupants. The definition of FTE is a sort
+of calculation explained here:
+Calculate the full-time equivalent (FTE) building
+occupants based on a standard 8-hour occupancy
+period. An 8-hour occupant has an FTE value of 1.0,
+while a part-time occupant has an FTE value based
+on their hours per day divided by 8.
+FTE Occupants = Occupant Hours / 8
+This calculation must be consistent for all LEED for
+New Construction credits.
+
+No.
+
+Questions
+
+Answers
+
+42
+
+SS CREDTI 4.3
+
+Low Emitting & Fuel Efficient Vehicles
+
+What is Credit 4.3?
+43
+
+SS CREDTI 4.3
+
+Option 1:
+
+What is required for Credit
+4.3?
+
+Provide low emission cars (yes, provide cars to
+people), with preferred parking (0.03 FTE)
+Option 2:
+Provide preferred parking for low emission cars (0.05
+total parking spaces)
+Option 3:
+Provide charging station and refuel stations for low
+emission cars (0.03 total parking spaces)
+
+44
+
+SS CREDIT 4.4
+
+o
+
+Low emission car = ZEV (zero emisson
+vehicle) = minimum energy star of 40.
+
+o
+
+Preferred
+spaces.
+
+parking
+
+EXCLUDES
+
+handicap
+
+No increase in parking capacity.
+
+What is Credit 4.4?
+45
+
+SS CREDIT 4.4
+What is a minimum
+requirement for Credit 4.4?
+
+Option 1 (non-residential):
+•
+•
+
+Do not exceed local parking requirements in
+proposed parking scheme
+Provide carpool parking (for 0.05 total parking
+spaces)
+
+Option 2 (non-residential):
+•
+
+For projects that provide parking for less than
+5% of FTE building occupants: provide
+carpool parking (for 0.05 total parking
+spaces)
+
+Option 3 (residential):
+•
+•
+
+Do not exceed local codes
+Shared vehicle program
+
+Option 4 (all):
+
+•
+46
+
+SS CREDIT 4.4
+What determines the maximum
+number of parking spaces
+allowed and what are the
+parking distribution
+requirements under Credit 4.4?
+
+Provide no new parking
+
+No more than
+requirements,
+
+the
+
+MINIMUM
+
+local
+
+zoning
+
+AND
+Provide preferred parking for carpools or vanpools
+capable of serving 5% of the building occupants.
+
+No.
+
+Questions
+
+Answers
+
+47
+
+SS CREDIT 4.4
+
+Do not exceed the local zoning minimum parking
+requirement
+
+For Residential Buildings
+(option 3), what are the
+requirements to receive
+Alternative Transportation:
+Parking Capacity Credit 4.4?
+48
+
+SS CREDIT 4.4
+
+AND
+Provide infrastructure and support programs to
+facilitate shared vehicle usage.
+Provide no new parking
+
+Inclusive of ALL building types
+(option 4), what is the
+requirement to receive
+Alternative Transportation:
+Parking Capacity Credit 4.4?
+
+49
+
+SS CREDIT 5
+
+Site Development
+
+What is SS Credit 5 called?
+50
+
+51
+
+SS CREDIT 5
+
+Two
+
+How many points are available
+for Site Development?
+
+SS credit 5.1: Site Development – Protect or Restore
+Habitat
+SS credit 5.2: Site Development – Maximize Open
+Space
+
+SS CREDIT 5.1
+
+Encourages restoration of open areas or reduce
+impact on green fields.
+
+What is Credit 5.1?
+52
+
+SS CREDIT 5.1
+What is the intent of the Site
+Development Credit 5.1?
+
+53
+
+SS CREDIT 5.1
+What is required on greenfield
+sites for Credit 5.1?
+
+•
+•
+•
+•
+
+Limit site disturbance to:
+•
+•
+•
+•
+•
+
+54
+
+SS CREDIT 5.1
+What is required on previously
+developed sites for Credit 5.1?
+
+Conserve existing natural areas
+Restore damaged areas
+Provide habitat
+Promote biodiversity
+40 ft. beyond the building perimeter
+25 ft. beyond constructed areas with
+permeable surfaces
+15 ft. beyond the roadways
+10 ft. beyond surface walkways, patios,
+surface parking
+15 ft. of main utility trenches & 10 ft. for
+utilities less than 12inches diameter
+
+Restore or protect a minimum of 50% of the site area
+(excluding the building footprint) with native or
+adapted vegetation.
+
+No.
+
+Questions
+
+55
+
+SS CREDIT 5.1
+What is required on zero-lotline for Credit 5.1?
+
+56
+
+SS CREDIT 5.2
+
+Answers
+•
+•
+•
+
+Projects earning SS2 (60,000 sq-ft. min/acre)
+and using vegetated roofs may apply
+vegetated roof surface for this calculation
+20% of site area to be green.
+include building footprint in calculation
+
+Maximize Open Space
+
+What is Credit 5.2?
+57
+
+SS CREDIT 5.2
+What is the intent of the Credit
+5.2?
+
+58
+
+•
+•
+
+A high open space to footprint ratio
+Promote biodiversity
+
+SS CREDIT 5.2
+
+Case 1
+
+What is required for Credit
+5.2?
+
+Where there is a local code for open space
+restriction, reduce the development footprint and/or
+provide open space which exceeds the zoning
+requirements by 25%
+Case 2
+Where there is NO zoning requirements (for e.g.
+campuses or military bases), provide vegetated open
+space adjacent to the building equal to the building
+footprint.
+Case 3
+Where a zoning ordinance exists, with no open
+space requirement, provide a vegetated open space
+equal to 20% of the project site area.
+For all options:
+Urban area projects that earn SS2
+•
+•
+
+•
+
+59
+
+SS CREDIT 6
+
+vegetated roof areas can count toward credit
+compliance
+pedestrian oriented hardscape areas can
+count toward credit compliance (min. 25%
+open space must be vegetated)
+Wetlands or naturally design ponds count if
+side
+slope
+gradients
+average
+1:4
+(vertical:horizontal) or less and are vegetated
+
+Stormwater Design
+
+What is SS Credit 6 called?
+60
+
+SS CREDIT 6
+
+Two
+
+How many points are available
+
+Credit 6.1: Stormwater Design – Quantity Control
+
+No.
+
+61
+
+Questions
+
+Answers
+
+for Stormwater Design?
+
+Credit 6.2: Stormwater Design – Quality Control
+•
+•
+•
+•
+•
+•
+•
+
+SS CREDIT 6.1
+What is the intent of Credit
+6.1?
+
+62
+
+SS CREDIT 6.1
+What is required for
+Stormwater Design: Credit 6.1
+- if existing impervious surface
+is less than or equal to 50% of
+total site area?
+
+63
+
+SS CREDIT 6.1
+What is required for
+Stormwater Design: Credit 6.1
+- if existing impervious surface
+is greater than 50% of total site
+area?
+
+64
+
+SS CREDIT 6.1
+What are potential strategies
+for managing stormwater
+flows?
+
+65
+
+SS CREDIT 6.2
+What is the intent of Credit
+6.2?
+
+66
+
+SS CREDIT 6.2
+What is required for
+Stormwater Design: Credit
+6.2?
+
+Limit the disruption of natural hydrology
+Increase on-site filtration
+Manage storm water runoff
+Eliminate sources of contaminants
+Reduce impervious cover
+Reduce/eliminate pollution
+Remove pollutants from storm water runoff
+
+Implement a stormwater management plan that
+prevents the post-development peak discharge rate
+and quantity equal to or less than pre-development
+(for 1 and 2 year, 24-hour design storms)
+OR
+Implement a stormwater management plan that
+protects receiving stream channels from excessive
+erosion by implementing a stream channel protection
+strategy and quantity control strategies.
+Implement a stormwater management plan that
+results in a 25% decrease in the volume of
+stormwater runoff than pre-development (from the 2
+year, 24 hour design storm).
+Notes
+•
+•
+
+Humid watershed: 1″ rainfall / 40″ per year
+Semi-arid watershed: 0.75″ rainfall / 20-40″
+per year
+• Arid watershed: 0.50″ rainfall / less than 20″
+per year
+• Design the project site to maintain natural
+stormwater flows by promoting infiltration.
+• Specify vegetated and pervious paving to
+minimize impervious surfaces.
+• Reuse stormwater volumes generated for nonpotable uses such as landscape irrigation, toilet
+and urinal flushing and custodial uses.
+Reduce or eliminate water pollution by reducing
+impervious cover, increasing onsite infiltration,
+eliminating source of contaminants, and removing
+pollutants from stormwater runoff.
+Implement a stormwater management plan that
+reduces impervious cover, promotes infiltration, and
+captures and treats stormwater from 90% of the
+average annual rainfall using acceptable best
+
+No.
+
+Questions
+
+Answers
+management practices (BMP's).
+BMP's used to treat runoff must be capable of
+removing 80% of the average annual post
+development total suspended solids load based on
+existing monitoring reports.
+
+67
+
+SS CREDIT 6
+
+Red standing seam metal roof.
+
+What type of roof system is
+most effective to capture
+rainwater?
+68
+
+SS CREDIT 6
+What document describes the
+practices to be used to reduce
+stormwater total suspended
+solids (TSS) and total
+phosphorous (TP)?
+
+69
+
+SS CREDIT 7
+
+EPA's Guidance Specifying Management Measures
+for Sources of Non-Point Pollution in Coastal Waters,
+January 1993 (Document #EPA 840-B-92-002).
+
+Heat Island Effect
+
+What is SS Credit 7 called?
+70
+
+SS CREDIT 7
+What Is a Heat Island?
+
+71
+
+SS CREDIT 7
+What Causes a Heat Island?
+
+Heat islands are the characteristics of urban
+air/surface temperatures that result in higher air
+temperatures up to 10° F (5.6° C) warmer than
+surrounding natural land cover.
+Causes of the "heat island effect" include dark
+surfaces--that absorb more heat from the sun--and
+less vegetation that would provide shade and cool
+the air.
+As cities replace natural land cover with pavement,
+buildings, and other structures, these built up areas
+absorb more of the sun's heat, causing surface and
+air temperatures to rise. The loss of trees and shrubs
+also eliminates the natural cooling effects of shading
+and evapo-transpiration, a process that draws heat
+from the air to convert water contained in vegetation
+to water vapor.
+
+72
+
+SS CREDIT 7
+When do heat islands form?
+
+Heat islands can occur at any time, regardless of
+season or time of day. They are often largest in the
+evening when urban areas release stored heat
+energy into the air from roads and other structures.
+This urban-rural cooling difference produces
+maximum heat island intensities three to five hours
+after sunset.
+
+No.
+
+Questions
+
+Answers
+
+73
+
+SS CREDIT 7
+
+Heat islands can increase air conditioning demand,
+the incidence of heat-related illness and mortality,
+and power plant emissions of air pollution and
+greenhouse gases. In addition to this direct increase
+in power plant emissions, elevated ambient
+temperatures can speed up the heat-dependent
+reaction that forms ground-level ozone.
+
+What Are Problems with the
+Heat islands?
+
+74
+
+SS CREDIT 7
+How Can We Reduce the Heat
+Island Effect?
+
+75
+
+SS CREDIT 7
+What is the intent of the Heat
+Island Effect Credit?
+
+76
+
+77
+
+on
+
+Two
+
+How many points are available
+for Heat Island Effect?
+
+Credit 7.1: Heat Island Effect – Non Roof
+Credit 7.2: Heat Island Effect - Roof
+• Reduce heat islands
+• Minimize impact on microclimate and habitats
+
+SS CREDIT 7.1
+
+SS CREDIT 7.1
+What are the requirements to
+achieve Credit 7.1?
+
+79
+
+Reduce heat islands to minimize impact
+microclimate and human and wildlife habitat
+
+SS CREDIT 7
+
+What is intent of SS Credit 7.1?
+78
+
+Cities can mitigate heat islands by installing cool
+roofs or green roofs; using cool pavements; and
+planting shade trees and vegetation throughout an
+urban area.
+
+SS CREDIT 7.2
+
+Option 1:
+• Provide shade to 50% of site area (within 5
+years of occupancy)
+• Provide open grid area (parking, roads,
+sidewalks) with paving material of SRI 29 or
+higher.
+Option 2:
+• Provide 50% parking underground or under
+roof
+• Provide paving material with solar reflectance
+index - SRI 29 or higher.
+Heat Island Effect - Roof
+
+What is SS Credit 7.2?
+80
+
+SS CREDIT 7.2
+What is intent of SS Credit 7.2?
+
+81
+
+•
+•
+
+Reduce heat islands
+Minimize impact on microclimate and habitats
+
+SS CREDIT 7.2
+
+Option 1:
+
+What are the requirements to
+reduce roof heat island
+effects?
+
+75% roof material should be:
+• SRI 78 for a slope less than 2:12 (low-sloped
+roof)
+
+No.
+
+Questions
+
+Answers
+•
+
+SRI 29 for a slope more than 2:12 (steepsloped roof)
+Option 2:
+• Install a vegetated roof for at least 50% of the
+roof area
+Option3:
+• Combination of options 1 & 2: Install
+combinations of high albedo (SRI) and
+vegetated roof can be used providing they
+collectively cover greater than 100%
+(calculated) of the roof area.
+Calculation of (Area of SRI roof /0.75) + (Area of
+vegetated roof / 0.5) is greater than total roof area.
+82
+
+SS CREDIT 7.2
+What reflectance and
+emissivity standards and
+characteristics are required for
+roofing under Credit 7.2?
+
+83
+
+SS CREDIT 7
+What is albedo and SRI?
+
+Use Energy Star® compliant and high emissivity
+roofing of at least 0.9 when tested in accordance
+with ASTM 408 and/or ASTM C 1371. Roofing
+materials should have SRI values greater than 78 for
+low-sloped roofs and 29 for steep-sloped roofs
+(where SRI is measured according to ASTM E903,
+ASTM E1918, and ASTM E1980).
+Albedo or solar reflectance is the ability of a surface
+material to reflect incident solar (short wave)
+radiation. It is expressed on a scale of 0 (black) to 1
+(white) where value of 0 indicates that the surface
+absorbs all solar radiation, and a value of 1
+represents total reflectivity. [Alternatively albedo can
+be expressed in percentage scale of 0 % to 100%].
+A newer method of evaluating coolness is the solar
+reflectance index (SRI), which incorporates both
+solar reflectance and emittance in a single value.
+SRI quantifies how hot a surface would get relative
+to standard black and standard white surfaces. It is
+defined such that a standard black (reflectance 0.05,
+emittance 0.90) is 0 and a standard white
+(reflectance 0.80, emittance 0.90) is 100.
+
+84
+
+SS CREDIT 7
+What is Emittance?
+
+85
+
+SS CREDIT 7
+
+Emittance is the amount of thermal radiation – also
+known as infrared or long wave radiation – that a
+material releases or radiates away from its surface.
+Emittance is expressed as a number between 0.0
+and 1.0, or 0% and 100%. With the exception of
+metals, most building materials have emittances
+above 85%.
+Cool roofs have a high solar reflectance, or albedo,
+and may also have a high emittance. EPA’s Energy
+
+No.
+
+Questions
+
+Answers
+
+What is a Cool Roof?
+
+Start Roof Product Program has cool roofing
+specifications
+for
+both
+low-slope
+(primarily
+commercial) and sloped (primarily residential) roofs.
+EPA ENERGY STAR specifies an albedo of 0.65 or
+higher for low-slope roofs and at least 0.25 for
+steeped sloped roofs. Although emittance is not a
+qualifying criterion for ENERGY STAR ®, a value of
+at least 0.85 further reduces roof temperatures and
+can decrease the amount of heat transferred to
+building interiors.
+
+86
+
+SS CREDIT 7
+What are the benefits of cool
+roofs?
+
+87
+
+SS CREDIT 7
+What are some examples of
+cool roofing applications?
+
+On a hot, sunny summer day, traditional roofing
+materials can reach peak temperatures of 190°F
+(88°C). By comparison, cool roofs reach maximum
+temperatures of 120°F (49°C). In buildings with air
+conditioning (AC), cool roofs can save money on
+energy bills, lower peak energy demand, and reduce
+power plant emissions of air pollution and
+greenhouse gases. In buildings without AC, cool
+roofs can increase indoor occupant comfort by
+lowering top-floor temperatures. In both cases, cool
+roofs can contribute to urban heat island mitigation.
+Low-slope cool roofing applications, which are
+typically used in the commercial building sector,
+include single-ply and cool coatings. Single-ply
+roofing is often constructed of white rubber or plastic
+material that is glued or fastened over the entire roof
+surface. Cool coatings have the consistency of thick
+paint, and contain cement particles or elastomeric
+polymers. They can be applied to a wide range of
+existing and new roof surfaces.
+Sloped cool roofing applications include concrete or
+clay tile with a white pigment added to the surface or
+mixed in during manufacturing. These products are
+typically used in the residential sector.
+
+88
+
+SS CREDIT 7
+What is a green roof?
+
+89
+
+SS CREDIT 7
+What are the benefits of green
+roofs?
+
+Green roofs, or rooftop gardens, are planted over
+existing roof structures, including industrial facilities,
+residences, offices, and other commercial property.
+These "living" roofs consist of a waterproof, root-safe
+membrane that is covered by a drainage system,
+lightweight growing medium, and plants.
+Green roof benefits include:
+•
+
+Reducing rooftop temperatures and heat
+transfer to the surrounding air;
+
+•
+
+Decreasing
+
+summertime
+
+indoor
+
+No.
+
+Questions
+
+Answers
+temperatures, which reduces air conditioning
+demand and peak energy consumption for
+cooling;
+
+90
+
+SS CREDIT 7
+What are some examples of
+green roof applications?
+
+91
+
+SS CREDIT 7
+What is ozone?
+
+•
+
+Lessening pressure on sewer systems
+through the absorption of rainwater;
+
+•
+
+Filtering pollution – including heavy metals
+and excess nutrients – through the processes
+of bio- and phytoremediation; and
+
+•
+
+Protecting underlying roof material, reducing
+noise, providing a habitat for birds and other
+small animals, and improving the quality of
+life for building inhabitants. Reducing the
+urban heat island effect by decreasing
+rooftop
+temperatures
+through
+evapotranspiration that cools the surrounding air.
+
+Green roofs are generally classified either as
+intensive or extensive.
+•
+
+Intensive green roofs require a minimum of
+one foot of soil. Trees and shrubs are usually
+planted, adding 80 to 150 pounds per square
+foot of load to the building. These roofs
+require complex irrigation and drainage
+systems, and significant maintenance.
+Intensive roofs are often accessible to the
+public.
+
+•
+
+Extensive green roofs require only 1 to 5
+inches of soil. Low lying plants and grasses
+are usually planted, and 12 to 50 pounds per
+square foot of load may be added. These
+roofs use simple irrigation and drainage
+systems, and require little maintenance.
+Extensive green roofs usually are not
+accessible to the public.
+
+Ozone is an odorless, colorless gas that can be
+"good" or "bad" depending on where it is in the
+atmosphere. "Good" ozone occurs in the
+stratosphere, approximately 10 to 50 kilometers
+above the Earth's surface, where it forms a
+protective layer that shields earth habitants from
+harmful ultraviolet radiation. Stratospheric ozone
+forms what is known as the ozone layer. Ozone layer
+depletion can be controlled by eliminating use of
+CFC refrigerants and other chlorine based products.
+"Bad" ozone, or ground-level ozone, exists closer to
+the Earth's surface. Ground-level ozone is formed by
+
+No.
+
+Questions
+
+Answers
+a chemical reaction between nitrogen oxides and
+volatile organic compounds in the presence of heat
+and sunlight. Ground-level ozone is a harmful
+pollutant and the main constituent of smog.
+
+92
+
+SS CREDIT 8
+
+Light Pollution Reduction
+
+What is SS Credit 8 called?
+93
+
+SS CREDIT 8
+
+•
+
+What is the intent of the Light
+Pollution Reduction Credit?
+
+•
+•
+•
+
+94
+
+SS CREDIT 8
+What is Light Pollution?
+
+95
+
+SS CREDIT 8
+What is Light Trespass?
+
+Minimize light trespass from the building and
+site
+Reduce sky-glow to increase night sky
+access
+Improve nighttime visibility through glare
+reduction
+Reduce development impact on nocturnal
+environments.
+
+Light pollution is the unwanted illumination of the
+night sky created by human activity. Light pollution is
+sometimes said to be an undesirable byproduct of
+our industrialized civilization. Light pollution is a
+broad term that refers to multiple problems, all of
+which are caused by inefficient, annoying, or
+arguably unnecessary use of artificial light. Specific
+types of light pollution include light trespass, overillumination and sky glow.
+As its name implies, light trespass occurs when
+unwanted light spills over beyond the boundary of
+the property on which a light is located to adjacent
+properties. Light trespass is often caused by high or
+poorly positioned lights. The result is bright night
+lighting on an area that would otherwise be dark.
+Certainly it is important to have adequate light for
+safety and security, however, when misapplied,
+additional problems are created.
+
+96
+
+SS CREDIT 8
+What is Over Illumination?
+
+97
+
+SS CREDIT 8
+
+Over illumination is the use of light well beyond that
+required for a specific activity. Many places, both
+indoors and out, have lights on when no people are
+present. In many cases, this goes beyond the need
+for security lighting. Think of office buildings that
+have lights on all night even though the buildings are
+virtually empty.
+Sky glow is the bright ‘glow’ seen over many cities
+and towns in the evening. It is the result of the many
+
+No.
+
+98
+
+Questions
+
+Answers
+
+What is Sky glow?
+
+electric lighting fixtures that shed light above urban
+areas. It is caused by light traveling through the
+atmosphere being refracted or scattered by water
+droplets or particles (aerosols) such as dust, pollen,
+bacteria, spores, salt from sea spray, mineral
+particles lifted from deserts and waste products from
+industry. It is therefore worse in heavily polluted
+areas, and will always exist to some extent when the
+air quality is poor.
+
+SS CREDIT 8
+
+Light pollution is a strong indicator of wasted energy.
+
+Why do we care about light
+pollution?
+
+Astronomers (both professional and amateur) have
+been concerned about the deteriorating quality of the
+night sky to conduct their observations and research.
+Medical research on the effects of excessive indoor
+light on the human body suggests a variety of
+adverse
+health
+effects
+including
+increased
+headaches, fatigue, and stress.
+Lights at night can impact both the biology and
+ecology of species in the wild. Some examples
+include the disorientation of sea turtle hatchlings by
+beachfront lighting; nesting choices and breeding
+success of birds; behavioral and physiological
+changes in salamanders; disturbances of nocturnal
+animals; and altered natural light regimes in
+terrestrial and aquatic ecosystems.
+
+99
+
+SS CREDIT 8
+
+One
+
+How many points are available
+for Light Pollution Reduction?
+Requirements for Interior Lighting:
+100 SS CREDIT 8
+• Stays inside
+What is required for Light
+• Non-emergency
+lights
+shut
+down
+Pollution Reduction Credit 8.0?
+automatically at non-business hours
+For interior lighting, the angle of maximum candela
+from each interior luminaire located in the building
+shall intersect opaque bldg interior surfaces
+Requirements for Exterior Lighting:
+• Provide for comfort and safety only
+• DO NOT exceed 80% of lighting power
+densities for exterior area and 50% for
+building facades and landscape features as
+defined in ASHRAE/IESNA Standard 90.12004.
+• DO NOT install lighting more than 2.5 times
+
+No.
+
+Questions
+
+Answers
+building height from property line
+• Credit does not apply to 3 story buildings,
+warehouses, and manufactured homes.
+4 Light Zones:
+Projects shall follow the requirements for 4 light
+zones as follows:
+• LZ1: dark, density less than 200 people per
+square mile
+• LZ2: low (residential)
+• LZ3: medium (commercial, industrial and
+high-density residential)
+• LZ4: high (major city centers, entertainment
+districts)
+
+Summarizing….
+The introduction of a building to a site inevitably causes disruptions that affect the health of the
+local ecosystem. The suggested strategies for Sustainable Development include:
+•
+
+Evaluate brownfield sites to determine appropriate reuse for health care facilities.
+
+•
+
+Reuse and renovate existing buildings.
+
+•
+
+Site buildings in urban areas with existing infrastructure.
+
+•
+
+Avoid agricultural land, 100 year flood plains, threatened or endangered species habitat,
+wildlife corridors, wetlands.
+
+•
+
+Orient buildings to make best use of solar energy for heating or daylighting.
+
+•
+
+Orient buildings to encourage natural ventilation and passive cooling.
+
+•
+
+Design to reduce erosion and run off into sewer systems and/or air pollution.
+
+•
+
+Reduce building footprint, optimize layouts and reduce size of roads, parking and other
+site improvements to concentrate and limit total paving and other site disturbance.
+
+•
+
+Minimize impervious cover by using open-grid and pervious paving materials.
+
+•
+
+Maximize preservation and restoration of bio-diverse open space/habitat.
+
+•
+
+Use native trees, shrubs and plants.
+
+•
+
+Develop and implement an integrated pest management plan.
+
+•
+
+Use vegetative and other shading techniques to assist passive cooling and ventilation of
+buildings and public and paved areas.
+
+•
+
+Site in proximity to transit options.
+
+•
+
+Establish a transportation plan. Support alternatives to fossil fueled single occupancy
+vehicles (preferred van/carpool parking, bike parking and changing facilities, electric car
+
+charging and other alternate vehicle fueling, nearby transit access). Reduce paved
+parking area appropriately.
+•
+
+Design in accordance with Illuminating Engineering Society of North America (IESNA)
+foot-candle requirements as stated in the Recommended Practice Manual: Lighting for
+Exterior Environments, and design interior and exterior lighting such that zero direct
+beam illumination leaves the building site.
+
+SECTION - 3
+WATER EFFICIENCY
+Water efficient design strategies balance water quality and quantity demands within a building
+and are responsive to the watershed's capacity as source and sink. Public works projects, such
+as treatment plants and sewage systems, are unable to adequately remove or process the toxic
+materials that infiltrate these systems, potentially threatening public health.
+This category encourage owners/designers to take a systematic look to identify potential water
+sources, how water is used in the building and how it flows around the building site to reduce
+water usage and wastewater discharges. The credits are earned by reducing or eliminating the
+use of potable water for landscape irrigation, reducing wastewater, and reducing overall water
+consumption. The goals are to:
+1. Minimize the use of potable water while conserving water quality and availability.
+2. Minimize off site treatment of wastewater.
+3. Minimize storm water release from the site.
+4. Maximize use of on-site water resources, (e.g., rainwater, graywater).
+5. Match water quality with end use requirements.
+6. Maximize aquifer recharge.
+No.
+
+Questions
+
+Answers
+
+1
+
+What do WE stand for?
+
+Water Efficiency
+
+2
+
+What are the goals of Water
+Efficiency LEED category?
+
+•
+•
+•
+•
+•
+•
+
+Minimize the use of potable water while
+conserving water quality and availability.
+Minimize off site treatment of wastewater.
+Minimize storm water release from the site.
+Maximize use of on-site water resources,
+(e.g., rainwater, greywater).
+Match water quality with end use
+requirements.
+Maximize aquifer recharge.
+
+3
+
+How many prerequisites and
+credits are there in the Water
+Efficiency section?
+
+Prerequisites – 0
+Credits – 3
+Points - 5
+
+4
+
+Name the Credits in the WE
+Section
+
+WE Credit 1 – Water Efficient Landscaping (2
+points)
+WE Credit 2 –
+Technologies (1 point)
+
+Innovative
+
+Waste
+
+WE Credit 3 – Water Use Reduction (1 point)
+5
+
+What percentage WE
+contribute to overall LEED
+credit points?
+
+7% [5 / 69 x 100]
+
+Water
+
+No.
+
+Questions
+
+Answers
+
+6
+
+Is there any prerequisite for
+Water Efficiency Category?
+
+NO
+
+7
+
+What is Graywater?
+
+Graywater is defined by the UPC (uniform plumbing
+code) as untreated wastewater that has not come in
+contact with toilet waste. Examples are shower
+water, water from sinks, bathtubs, bathroom wash
+basins and cloth washers.
+Architect, plumbing engineer, civil engineer, local
+agency all need to be involved in the design of a
+graywater system.
+
+8
+
+What is Blackwater?
+
+Blackwater doesn’t have a single definition that is
+accepted nationwide. It is basically toilet and urinal
+water, as well as kitchen sinks in most areas.
+
+9
+
+WE CREDIT 1
+
+Water Efficient Landscaping
+
+What is WE Credit 1 called?
+10
+
+11
+
+WE CREDIT 1
+
+•
+
+What is the intent of Water
+Efficient Landscape Credit?
+
+•
+
+WE CREDIT 1
+
+Limit or eliminate potable water (drinking
+water) use for landscape irrigation.
+Limit or eliminate use of natural surfaces for
+landscape irrigation.
+
+Two
+
+How many points are available Credit 1.1: Water Efficient Landscaping – Reduce by
+50%
+for Water Efficient
+Landscaping?
+Credit 1.2: Water Efficient Landscaping – No Potable
+Use or No Irrigation
+12
+
+WE CREDIT 1.1
+What is required for Credit
+1.1?
+
+13
+
+WE CREDIT 1.1
+What percent of potable water
+needs to be reduced to get
+Water Efficient Landscape
+Credit 1.1?
+
+14
+
+WE CREDIT 1.1
+List few methods to achieve
+WE Credit 1.1.
+
+Reduce potable water consumption for irrigation by
+50% by a combination of plant species factor,
+irrigation efficiency, use of captured rainwater, use of
+recycled wastewater, and use of water treated and
+conveyed by a public agency specifically for nonpotable uses.
+50% reduction from a calculated mid-summer
+baseline case.
+
+•
+
+Use high efficiency micro-irrigation system
+o
+
+drip, micro
+irrigation
+
+misters,
+
+subsurface
+
+No.
+
+Questions
+
+Answers
+•
+
+Instead of using potable water use:
+o
+o
+o
+
+•
+
+Use treated water conveyed by public agency
+as specifically for non-potable uses
+
+•
+
+Use species factor
+o
+
+15
+
+captured rainwater
+recycled wastewater
+treated water
+
+consider
+size,
+growth
+rate,
+adaptability,
+texture,
+color,
+diversification of plant life on site
+
+WE CREDIT 1.2
+
+Option 1:
+
+What is required for Credit
+1.2?
+
+Do not use any potable water for Irrigation
+Option 2:
+Do not use any irrigation system
+Achieve WE Credit 1.1 and use only captured
+rainwater, recycled waste water, recycled graywater,
+or water treated and conveyed by a public agency
+specifically for non-potable uses for irrigation
+systems.
+OR
+Do not install permanent irrigation systems (temp
+system okay if removed w/in 1 year).
+
+16
+
+WE CREDIT 1.2
+
+Potable Free System: 100% total reduction.
+
+What percent of potable water
+needs to be reduced to get
+Water Efficient Landscape
+Credit 1.2?
+17
+
+WE CREDIT 1.2
+What are the basic strategies
+for Water Efficient Landscape
+Credits?
+
+•
+•
+•
+
+•
+
+•
+
+Group plants according to their water needs.
+Specify native plants that are tolerant of local
+climate, soils and water.
+Limit turf areas to those needed for practical
+uses: Grass should be grown only in areas
+where it provides functional benefit.
+For landscaping, use following methods:
+o Captured Rainwater
+o Recycled wastewater
+o Recycled graywater
+o Treated water
+Use efficient irrigation systems: Install drip
+irrigation and high efficiency irrigation control
+
+No.
+
+Questions
+
+Answers
+
+•
+
+•
+
+•
+
+18
+
+WE CREDIT 2
+
+(moisture sensors, weather based controllers
+such as timer on the sprinkler system to
+compensate for changing weather conditions.
+Using landscaping that doesn’t require
+permanent irrigation systems - temporary
+irrigation ok (for plant establishment) if
+removed after 1 year of installation Make sure
+soil is healthy: Soils improved with organic
+matter allow for better water absorption and
+water-holding capacity. Properly enrich your
+soils with compost or peat moss.
+Mulching & mowing: Mulches cover and cool
+soil, minimize weed growth, slow erosion and
+evaporation and provide landscape interest.
+Provide regular maintenance: A waterefficient landscape is healthier and uses
+minimal amounts of water, fertilizer and
+pesticides.
+
+Innovative Wastewater Technologies
+
+What is WE Credit 2 called?
+19
+
+WE CREDIT 2
+What is intent of Innovative
+Wastewater Technologies
+Credit?
+
+20
+
+WE CREDIT 2
+
+Reduce generation of wastewater and potable water
+demand while increasing local aquifer recharge.
+
+One
+
+How many points are available [One extra credit possible if the design reduces
+potable water use by 100% or treats and reuses
+for Innovative Wastewater
+100% of wastewater on site].
+Technologies?
+
+21
+
+WE CREDIT 2
+What is required for Credit 2?
+
+Option 1:
+• Reduce potable water use by 50%
+o use water conserving fixtures
+o reuse non-potable water for flushing
+o reuse on-site treated water
+Option 2:
+• Treat and reuse 50% of wastewater on-site
+(to tertiary standards). Water must be treated
+by:
+o biological systems
+o constructed wetlands
+o high efficiency filtration system
+
+No.
+
+Questions
+
+Answers
+
+22
+
+WE CREDIT 2
+What are 2 examples of
+Innovative Wastewater
+Technologies?
+
+Change 50% of urinals and toilets to composting
+toilets and waterless urinals.
+Reuse stormwater or greywater for sewage
+conveyance.
+
+23
+
+WE CREDIT 3
+What is WE Credit 3 called?
+
+Water Use Reduction
+
+24
+
+WE CREDIT 3
+What is intent of the Water
+Use Reduction Credit?
+
+25
+
+WE CREDIT 3
+Two
+How many points are available Credit 3.1: Water Use Reduction – 20% Reduction
+for Water Use Reduction?
+Credit 3.2: Water Use Reduction – 30% Reduction
+
+26
+
+WE CREDIT 3.1
+What is required for Water
+Use Reduction Credit 3.1?
+
+Employ strategies that in aggregate use 20% less
+water than baseline calculated for building.
+
+27
+
+WE CREDIT 3.1
+What are the methods for
+Water Use Reduction?
+
+Use special fixtures and sensor/metering controls.
+Fixture / Flowrate in Gallons Per Minute (GPM)
+• Shower/2.5 (lowflow/1.8)
+• Lavatory/2.5 (lowflow/1.8) (ultra lowflow/0.5)
+• Kitchen Sink/2.5 (lowflow/1.8)
+• Faucets/2.5
+• Aerator/2.5
+• Water Closet/1.6 (lowflow/1.1)
+• Dual Flush Water Closet/1.6 (lowflow/0.8)
+• Composting Toilet/0.0
+• Urinal/1 (lowflow/0.5)
+• Non-Water Urinal/0.0
+Use high-efficiency fixtures above, dry fixtures,
+occupant sensors.
+Consider reusing stormwater and graywater for nonpotable uses.
+
+28
+
+WE CREDIT 3.1
+What fixture performance
+requirements need to be met
+in Credit 3.1 and 3.2?
+
+Energy Policy Act of 1992
+
+29
+
+WE CREDIT 3.2
+What is required for Credit
+3.2?
+
+Employ strategies that in aggregate use 30% less
+water than baseline calculated for building.
+
+•
+•
+•
+
+Maximize water efficiency
+Reduce burden on municipal water supply
+Reduce burden on wastewater system
+
+No.
+
+Questions
+
+Answers
+
+30
+
+WE CREDIT 3.2
+What total efficiency percent
+increase is needed to earn
+Credit 3.2?
+
+30%
+
+31
+
+WE CREDIT 3
+What must be calculated
+before employing any water
+efficiency strategy?
+
+Estimate water use based on occupant usage and
+fixture flow rates. Fixtures included in the
+calculations are: water closets, urinals, lavatory
+faucets, showers, and kitchen sinks.
+Calculations
+• Consider: all occupants: students,
+customers, visitors, FTE
+• Male to Female water usage ratio: 1 to 1
+Male:
+o water closet = 1
+o urinal = 2
+Female:
+o water closet = 3
+Use per day
+o usage rate
+o occupancy
+o number of workdays
+
+32
+
+WE CREDIT 3
+What are some technologies
+that maximize water
+efficiency?
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+Specify EPA Energy Star high performance
+fixtures and equipment e.g. low flow and
+pressure assist toilets and urinals; waterless
+urinals; low-flow showerheads and faucets;
+automatic use activation on sinks, toilets and
+urinals;
+Energy Star dishwashers and laundry
+equipment;
+ozone-injected
+laundry
+equipment.
+Use faucet aerators, which break water flow
+into fine droplets to maintain "wetting
+effectiveness" while using less water. As a
+bonus, they reduce splashing while washing
+hands and dishes.
+Wastewater reuse or recycling systems,
+allowing:
+o Reuse of graywater for flushing toilets or
+for the garden, and
+o Recycling
+of
+wastewater
+through
+purification at a water treatment plant.
+Waterless car wash.
+Using non-potable site recycled water for
+cooling tower makeup, or use non-
+
+No.
+
+Questions
+
+Answers
+
+•
+
+•
+•
+
+evaporative
+condenser
+heat
+rejection
+equipment (air cooled, or ground source).
+Collecting storm water runoff from roofs and
+site and use for irrigation, sewage
+conveyance,
+toilet
+flushing
+and/or
+HVAC/process makeup water or recharge in
+to aquifer.
+Minimizing hardscapes and install permeable
+paving and other pervious surface materials.
+Creating wetlands or other systems to locally
+recharge underground water flows.
+
+Summarizing……
+Suggested Strategies for Water Efficiency include but not limited to:
+•
+
+Specify EPA Energy Star and high performance fixtures and equipment: e.g., low flow
+and pressure assist toilets and urinals; waterless urinals; low-flow showerheads and
+faucets; automatic use activation on sinks, toilets and urinals; Energy Star dishwashers
+and laundry equipment; ozone-injected laundry equipment.
+
+•
+
+Maximize water conservation in cooling towers by using non-potable site recycled water
+for cooling tower makeup, or use non-evaporative condenser heat rejection equipment
+(air cooled, or ground source).
+
+•
+
+Specify native plants that are tolerant of local climate, soils and water.
+
+•
+
+Install drip irrigation and high efficiency irrigation control (moisture sensors, weather
+based controllers).
+
+•
+
+Implement appropriate, safe strategies to recycle site waste water (e.g. gray water or
+condensate) and/or municipal secondary treated water for irrigation, sewage
+conveyance, and toilet flushing.
+
+•
+
+Collect storm water runoff from roofs and site and use for irrigation, sewage conveyance,
+toilet flushing and/or HVAC/process makeup water or recharge in to aquifer.
+
+•
+
+Minimize hardscapes and install permeable paving and other pervious surface materials.
+
+•
+
+Create wetlands or other systems to locally recharge underground water flows.
+
+SECTION- 4
+ENERGY AND ATMOSPHERE
+The burning of fossil fuels is the single largest contributor to global climate change, as well as a
+contributor to a host of toxic emissions that impair the environmental health of directly affected
+communities and the world. Rising energy prices impose a significant economic imperative that
+requires a careful examination of understanding how to best assure a comfortable healthy
+indoor environment supportive of patient recovery with a significantly reduced energy demand.
+This category encourage owners/designers to take a comprehensive, systematic look at the
+building and site’s energy flows to reduce energy bills, evaluate opportunities for reliance on
+renewable energy sources, and improve environmental health outcomes. By increasing energy
+efficiency, the demand for electrical power is lessened, and the use of raw materials required to
+generate the power is reduced. Green power generation methods such as solar or wind reduce
+carbon emissions and associated global warming. The credit for minimizing atmospheric impact
+is achieved by using no refrigerant, or by using a refrigerant that has low ozone depletion and
+global warming potential.
+No.
+
+Questions
+
+Answers
+
+1
+
+What does EA stand for?
+
+Energy and Atmosphere
+
+2
+
+What are the goals of Energy
+and Atmosphere LEED
+category?
+
+•
+•
+•
+•
+•
+•
+•
+
+Reduce building energy demand
+Reduce emissions from energy use
+Reduce reliance on energy generated by
+fossil fuels
+Maximize use of energy generated by
+renewable sources
+Prerequisite – 3
+Credits- 6
+Points - 17
+
+3
+
+How many prerequisites and
+credits are there in the energy
+and atmosphere section?
+
+4
+
+Name the Prerequisites in the
+EA Section
+
+EA P1 - Fundamental Commissioning of the Building
+Energy Systems.
+EA P2 - Minimum Energy Performance
+EA P3 - Fundamental Refrigerant Management
+
+5
+
+Name the Credits in the EA
+Section
+
+EA Credit 1 – Optimize Energy Performance (10
+points)
+EA Credit 2 – On Site Renewable Energy (3 points)
+EA Credit 3 – Enhanced Commissioning (1 point)
+EA Credit 4 – Enhanced Refrigerant Management (1
+point)
+EA Credit 5 – Measurement and Verification (1
+point)
+EA Credit 6 – Green Power (1 point)
+
+6
+
+What percentage EA category
+contributes to overall LEED
+credit points?
+
+25% [17 / 69 x 100]
+This is the highest among all categories.
+
+No.
+
+Questions
+
+Answers
+
+EA PREREQUISITES
+7
+
+EA PREREQ 1
+What is the name of the first
+prerequisite?
+
+8
+
+EA PREREQ 1
+What is the intent of the 1st
+prerequisite?
+
+9
+
+EA PREREQ 1
+What are the fundamental
+commissioning requirements
+for EA Prerequisite 1?
+
+10
+
+EA PREREQ 1
+
+Fundamental Commissioning of the Building Energy
+Systems.
+
+Verify that the building's energy related systems are
+installed, calibrated and perform according to the
+owner's project requirements, basis of design and
+construction documents.
+Designate a Commissioning Authority (CxA) to
+lead, review, and oversee completion of
+commissioning process
+• Must be experienced for two similar projects
+• Independent person who provide reports,
+findings, and recommendations directly to the
+Owner.
+• For projects less that 50,000 sq-ft,
+commissioning can be done by design or
+construction team.
+•
+
+What are the 6 requirements
+of the Commissioning
+Authority (CxA)?
+•
+•
+•
+•
+•
+
+11
+
+EA PREREQ 1
+What are the Submittals
+requirements to achieve EA
+Prerequisite 1?
+
+12
+
+Review the BOD & OPR
+[The owner writes up the Owner’s Project
+Requirements (OPR), and the design team
+creates the Basis of Design (BOD). CxA
+reviews these documents].
+Develop a Commissioning plan.
+Verify the Installation & Performance of the
+systems to be commissioned.
+Report the results and findings to the owner.
+Completes a summary commissioning report.
+Develop & incorporate commissioning
+requirements
+into
+the
+construction
+documents.
+
+Provide the LEED-NC Letter Template, signed by the
+owner and commissioning authority, confirming that
+the commissioning requirements for the building’s
+energy related systems have been successfully
+executed or will be provided under existing
+contract(s).
+
+The owner in their OPR specifies energy efficiency
+What does the owner cover in goals (local energy codes, ASHRAE, or LEED),
+Owner’s Project Requirements Indoor Environmental Quality Requirements (temp,
+humidity, air quality, ventilation, filtration, adjustability
+(OPR)?
+of controls), equipment and Systems Expectations
+EA PREREQ 1
+
+No.
+
+Questions
+
+Answers
+(maintenance, quality, automation).
+
+13
+
+EA PREREQ 1
+What does the design team
+cover in Basis of Design
+(BOD)?
+
+14
+
+EA PREREQ 1
+What is a strategy to achieve
+EA Prerequisite 1?
+
+15
+
+EA PREREQ 1
+What systems are covered in
+commissioning?
+
+16
+
+The BOD provides a narrative on the design of
+systems
+including
+codes,
+regulations,
+and
+performance criteria.
+
+Engage a commissioning authority and adopt a
+commissioning plan.
+•
+•
+•
+•
+
+HVAC and refrigeration
+Lighting and daylight controls
+Renewable Energy (PV, wind, solar etc)
+Domestic Hot Water
+
+EA PREREQ 1
+
+To Verify:
+
+Why commissioning is
+required?
+
+Installation inspection: verify proper installation
+and complete quality control to catch issues before
+start-up
+System Performance Testing: check as systems
+are energized, programmed, balanced and run under
+part and full load conditions.
+
+17
+
+EA PREREQ 1
+
+Commissioning usually adds $1/ sq ft.
+
+What is the approximate cost
+to the commissioning?
+
+18
+
+EA PREREQ 2
+
+Minimum Energy Performance
+
+What is the name of the 2nd
+EA prerequisite?
+19
+
+EA PREREQ 2
+What is the intent of the 2nd
+prerequisite?
+
+20
+
+EA PREREQ 2
+What are the submittal
+requirements of the 2nd
+prerequisite?
+
+Establish minimum level of energy efficiency for
+building system.
+Option 1:
+Provide a LEED-NC Letter Template, signed by a
+licensed professional engineer or architect, stating
+that the building project complies with both:
+• The mandatory provisions in Sections 5.4,
+6.4,
+7.4,
+8.4,
+9.4,
+and
+10.4
+of
+ASHRAE/IESNA Standard 90.1-2004 (without
+amendments);
+and
+• The prescriptive requirements in Sections
+
+No.
+
+Questions
+
+Answers
+5.5, 6.5, 7.5, and 9.5 or the performance
+requirements
+in
+Section
+11
+of
+ASHRAE/IESNA 90.1-2004 or the local
+energy code, whichever is more stringent.
+Option 2:
+• comply with local codes or DOE (Department
+of Energy), instead of ASHRAE
+• Mandatory: provide occupancy controls for:
+o class rooms
+o meeting rooms
+o break rooms
+
+21
+
+EA PREREQ 2
+What is a strategy to achieve
+EA Prerequisite 2?
+
+Design the building envelope, HVAC, lighting, and
+other systems to maximize energy performance.
+The ASHRAE 90.1-2004 User’s Manual contains
+worksheets that can be used to document
+compliance with this prerequisite. For projects
+pursuing points under EA credit 1, the computer
+simulation model may be used to confirm satisfaction
+of this prerequisite. The establishment of local
+energy codes as equivalent to or more stringent than
+ASHRAE 90.1- 2004 is a considerable task.
+Details on the DOE process for commercial energy
+code determination are available through URL:
+http://www.energycodes.gov/.
+
+22
+
+EA PREREQ 3
+
+Fundamental Refrigerant Management
+
+What is the name of the 3rd
+prerequisite?
+23
+
+EA PREREQ 3
+
+Reduce ozone depletion.
+
+What is the intent of the 3rd
+prerequisite?
+24
+
+What are the requirements of
+the 3rd prerequisite?
+
+New Building
+• Zero use of CFC-based refrigerants in HVAC
+systems. Specify new HVAC equipment uses
+NO CFC Refrigerants.
+Existing Building
+• Consider
+replacement
+or
+“phase-out”
+program for HVAC units and fire systems with
+CFCs. CFC production stopped in 1995 and
+was phased out 5 years after that.
+Notes:
+• ODP: ozone depletion potential
+
+No.
+
+Questions
+
+Answers
+•
+
+25
+
+EA PREREQ 3
+
+GWP: global warming potential
+
+No
+
+Does EA Prerequisite 3 allow
+any use of CFC based
+refrigerants in new HVAC&R
+systems?
+26
+
+EA PREREQ 3
+Does EA Prerequisite 3 allow
+any use of CFC based
+refrigerants in existing base
+building HVAC&R systems?
+
+27
+
+EA PREREQ 3
+
+Yes, but conduct an inventory to identify equipment
+that uses CFC refrigerants and provide a phase-out
+schedule for these refrigerants.
+
+EPA Montreal Protocol - 1987
+
+What standards/ruling applies
+to EA Prerequisite 3?
+28
+
+EA PREREQ 3
+What are the requirements to
+achieve EA Prerequisite 3?
+
+Provide a LEED-NC Letter Template, signed by a
+licensed professional engineer or architect, declaring
+that the building’s HVAC&R systems do not use
+CFC-based refrigerants.
+
+EA CREDITS
+29
+
+EA CREDIT 1
+
+Optimize Energy Performance
+
+What is EA Credit 1 called?
+30
+
+EA CREDIT 1
+
+Ten
+
+How many points are available
+for Optimize Energy
+Performance- Option1?
+31
+
+32
+
+EA CREDIT 1
+
+•
+
+What is the intent of the
+Optimize Energy Performance
+Credit?
+
+•
+
+List few methods of
+optimizing energy
+performance.
+
+•
+•
+•
+
+•
+
+To achieve increasing levels of energy
+performance above the baseline in the
+prerequisite standard
+To reduce environmental and economic
+impacts associated with excessive energy
+use.
+Reduce building footprint
+Reduce demand
+Provide sensors in:
+o Break rooms
+o Class rooms
+o Meeting/conference rooms
+Harvest Energy
+
+No.
+
+Questions
+
+Answers
+
+•
+
+•
+
+33
+
+34
+
+o Building Orientation
+o Window Location
+o Natural Ventilation
+Improve Efficiency
+o Through design of HVAC, lighting, and
+building envelope
+Recover Waste Energy
+o Exhaust Air Energy
+o Graywater Heat
+o Cogeneration
+
+EA CREDIT 1
+
+Three
+
+How many implementation
+options are available?
+
+(Earlier there were 4 options. The Benchmark
+version is deleted in the updated reference guide
+edition Oct, 2007).
+
+EA CREDIT 1 (Option 1)
+
+Option 1: Whole Building Energy Simulation
+
+What is option 1?
+
+1 to 10 points possible
+New Buildings:
+Demonstrate percentage of improvement in
+proposed building performance rating compared to
+baseline
+performance
+rating
+per
+Building
+Performance Rating method in Appendix G in
+ASHRAE / IESNA 90.1 - 2004. The minimum energy
+cost savings percentage for each point threshold is
+than calculated as follows:
+One point at 10.5% improvement, then 1 additional
+point for each 3.5% after that (10 points max for
+42.5% improvement).
+Existing Buildings:
+Same as new buildings, except 1 point at 3.5%, then
+1 additional point for each 3.5% after that. (10 points
+max for 35% improvement).
+•
+•
+•
+
+35
+
+EA CREDIT 1 (Option 1)
+
+For Calculations: Include all energy costs
+Compare to a baseline (model simulation)
+Provide 4 orientation simulations for baseline
+modeling.
+
+1 to 10
+
+How many points are available
+for Optimize Energy
+Performance, Option 1?
+36
+
+EA CREDIT 1 (Option 1)
+What metric is used when
+
+Annual energy cost savings
+
+No.
+
+Questions
+
+Answers
+
+evaluating Optimize Energy
+Performance Credit, Option 1?
+37
+
+EA CREDIT 1 (Option 1)
+
+The Building Performance Rating method
+
+What method is used to
+determine cost savings in
+Optimize Energy Performance
+Credit, Option 1?
+38
+
+EA CREDIT 1 (Option 1)
+
+HVAC systems, service water heating, and lighting
+
+What are the regulated energy
+components for Optimize
+Energy Performance Credit,
+Option 1?
+39
+
+EA CREDIT 1 (Option 1)
+
+14% for new, 7% for existing
+
+What percentage of energy
+cost savings must the energy
+design achieve to get two
+points for the Optimize Energy
+Performance Credit, Option 1,
+for both new and existing
+buildings?
+40
+
+EA CREDIT 1 (Option 1)
+
+New Buildings - 42%
+
+Existing Buildings - 35%
+What percentage of energy
+cost savings must the energy
+design achieve to get all ten
+points for the Optimize Energy
+Performance, Option 1, for
+both new and existing
+buildings?
+41
+
+EA CREDIT 1 (Option 2)
+What is Option 2?
+
+Option 2: Prescriptive Compliance Path: “Design
+Guide for Small Office Buildings”
+(4 points possible)
+•
+•
+•
+•
+•
+
+Comply with ASHRAE "Guide for Small Office
+Buildings" - 2004.
+Building must be less than 20,000 sq-ft
+Building must be office occupancy.
+For Calculations: NOT energy costs, but use
+Climate Zone factor
+Project teams must fully comply with all
+applicable criteria as established in the
+Advanced Energy Design Guide for the
+climate zone in which the building is located
+
+No.
+
+Questions
+
+Answers
+
+42
+
+EA CREDIT 1 (Option 2)
+
+Four
+
+How many points are available
+for Optimize Energy
+Performance, Option 2Prescriptive Compliance
+Path?
+Comply with the prescriptive measure of the
+What are the requirements for ASHRAE Advanced Energy Design Guide for Small
+Optimize Energy Performance, Office Buildings 2004.
+Option 2?
+
+43
+
+EA CREDIT 1 (Option 2)
+
+44
+
+EA CREDIT 1 (Option 2)
+What restrictions apply to
+Optimize Energy
+Performance- Option 2?
+
+45
+
+EA CREDIT 1 (Option 3)
+What is Option 3?
+
+•
+•
+•
+
+Buildings must be under 20,000 sq. feet
+Buildings must be office occupancy
+Project teams must fully comply with all
+applicable criteria as established in the
+Advanced Energy Design Guide for the
+climate zone in which the building is located.
+
+Option 3: Prescriptive Compliance Path: "Core
+Performance Guide"
+(2- 5 points possible)
+•
+
+•
+•
+•
+•
+•
+
+46
+
+EA CREDIT 1 (Option 3)
+How many points are available
+for Optimize Energy
+Performance- Option 3?
+
+2 to 5
+
+Comply with Advanced Buildings Core
+Performance Guide sections 1 & 2
+o Buildings must be LESS than 100,000 sq
+- ft.
+o Buildings may NOT be healthcare,
+warehouse or laboratories.
+o Minimum points achievable (2 to 3
+points)
+Three points for office, school, public
+assembly and retail
+Two points for all other project types
+Up to 2 points for projects that implement
+section 3: enhanced performance
+1 point for every 3 strategies implemented
+Project teams must fully comply with all
+applicable criteria as established in the
+Advanced Energy Design Guide for the
+climate zone in which the building is located
+
+No.
+
+Questions
+
+Answers
+
+47
+
+EA CREDIT 1 (Option 3)
+
+Comply with the Basic Criteria and Prescriptive
+Measures of the Advanced Buildings Benchmark ™
+Version1.1 with the exceptions of sections 1.7
+Monitoring and Trend Logging, 1.11 Indoor Air
+Quality, and 1.14 Networked Computer Monitor
+Control.
+
+What are the requirements for
+Optimize Energy
+Performance- Option 3?
+
+48
+
+49
+
+What restrictions apply to
+Optimize Energy
+Performance- Option 3?
+
+Project teams must fully comply with all applicable
+criteria as established in Advanced Building
+Benchmarks ™ for the climate zone in which the
+building is located.
+
+EA CREDIT 2
+
+On-Site Renewable Energy
+
+EA CREDIT 1 (Option 3)
+
+What is the EA Credit 2
+called?
+50
+
+EA CREDIT 2
+
+•
+
+What is the intent of On-Site
+Renewable Energy Credit?
+
+•
+•
+
+51
+
+EA CREDIT 2
+
+Increase on-site renewable energy self
+supply
+Reduce environmental and economic impacts
+associated with fossil fuel use
+Offset building energy costs
+
+Three
+
+How many points are available
+for On-Site Renewable
+Energy?
+52
+
+EA CREDIT 2
+What is the requirement for
+Renewable Energy Credit 2?
+
+53
+
+EA CREDIT 2
+What are the performance
+levels for the renewable
+energy points?
+
+54
+
+EA CREDIT 2
+What are some eligible
+renewable technologies to
+achieve EA Credit 2?
+
+Use on-site renewable energy systems to offset
+building energy cost.
+
+On-site use of:
+• 2.5% renewable energy = 1 point
+• 7.5% renewable energy = 2 points
+• 12.5% renewable energy = 3 points (max)
+Gain 1 additional point for 17.5% through exemplary
+performance. (4 total)
+• Solar
+• Photo-voltaic
+• Wind
+• Geothermal heating and electric
+• Biomass
+• Bio-gas
+• Low-Impact Hydro Electric
+
+No.
+
+Questions
+
+55
+
+EA CREDIT 2
+What are the Non- eligible
+renewable technologies?
+
+56
+
+57
+
+Answers
+•
+•
+•
+•
+•
+
+Architectural features
+Passive solar
+Day lighting
+Geo-exchange (ground source heat pumps)
+Green-power from off site
+
+How is energy cost calculated
+for EA Credit 2?
+
+Using the same software energy simulation used in
+EA Credit 1- Optimize Energy Performance, or by
+using the Department of Energy Commercial
+Buildings Energy Consumption Survey (CBECS)
+database to determine estimated electricity use.
+
+EA CREDIT 3
+
+Enhanced Commissioning
+
+EA CREDIT 2
+
+What is EA Credit 3 called?
+58
+
+EA CREDIT 3
+What is the intent of the
+Enhanced Commissioning
+Credit?
+
+59
+
+EA CREDIT 3
+What is the difference
+between Prerequisite 1 and
+Credit 3?
+
+Begin the commissioning process early during the
+design process and execute additional activities after
+systems performance verification is completed.
+
+Credit 3 fulfills requirements of EA prerequisite 1 and
+in addition:
+•
+
+•
+
+•
+•
+•
+•
+60
+
+EA CREDIT 3
+How many points are available
+for Enhanced
+Commissioning?
+
+One
+
+Prior to the start of the construction
+documents phase, designate an independent
+CxA to lead, review, and oversee the
+completion of all commissioning process
+activities.
+CxA must review OPR (Owner’s Project’s
+Requirements), BOD (Basis of Design), and
+Design Documents prior to 50% CD
+(Construction Documents).
+Reviews contractor submittals for compliance
+with OPR and BOD
+Develops a systems manual for the
+commissioned systems
+Verifies that the requirements for training for
+staff and occupants are completed and
+Reviews building operation within 10 months
+after substantial completion.
+
+No.
+
+Questions
+
+Answers
+
+61
+
+EA CREDIT 3
+
+Prior to the start of the construction documents
+phase, designate an independent CxA to lead,
+review, and oversee the completion of all
+commissioning process activities.
+
+What is the 1st requirement of
+Enhanced Commissioning
+Credit?
+62
+
+EA CREDIT 3
+What is the 2nd requirement
+of Enhanced Commissioning
+Credit?
+
+63
+
+EA CREDIT 3
+What is the 3rd requirement of
+Enhanced Commissioning
+Credit?
+
+64
+
+EA CREDIT 3
+What is the 4th requirement of
+Enhanced Commissioning
+Credit?
+
+64
+
+EA CREDIT 3
+What is the 5th requirement of
+Enhanced Commissioning
+Credit?
+
+66
+
+EA CREDIT 3
+What is the 6th requirement of
+Enhanced Commissioning
+Credit?
+
+67
+
+EA CREDIT 3
+The CxA is required to
+perform which requirements
+for Enhanced
+Commissioning?
+
+68
+
+EA CREDIT 3
+What are the requirements of
+the Commissioning Authority
+(CxA) for Enhanced
+Commissioning?
+
+CxA shall conduct, at a minimum, one
+commissioning design review of the Owner's Project
+Requirements (OPR), the Basis of Design (BOD)
+and the design documents (DD) prior to midconstruction documents phase, and then check the
+review comments.
+CxA shall review contractor submittals applicable to
+systems being commissioned, and submitted to
+design team and owner.
+
+Develop a systems manual for operation of the
+commissioned systems.
+
+Verify that the requirements for training personnel
+and building occupants are completed.
+
+Assure CxA involvement in reviewing building
+operation within 10 months after substantial
+completion.
+•
+•
+•
+
+Review of Design
+Review of Systems Manual
+Verification of training requirements
+
+The CxA must have documented commissioning
+authority experience in at least two building projects,
+must be independent of the work of design and
+construction, must not be an employee of the design
+firm, must not be an employee or contracted through
+a contractor or construction manager, and can be a
+qualified employee or consultant of the Owner.
+
+No.
+
+Questions
+
+Answers
+
+69
+
+EA CREDIT 4
+
+Enhanced Refrigerant Management
+
+What is EA Credit 4 called?
+70
+
+EA CREDIT 4
+What are the intents of the
+Enhanced Refrigerant
+Management Credit?
+
+71
+
+EA CREDIT 4
+What is the impact of different
+refrigerants on ozone
+depletion?
+
+72
+
+EA CREDIT 4
+
+Reduce ozone depletion and support compliance
+with the Montreal Protocol while minimizing direct
+contributions to global warming.
+• CFC (high)
+• HCFC (medium)
+• HFC (low)
+Efficiency of HFC is less than HCFC
+One
+
+How many points are available
+for Enhanced Refrigerant
+Management?
+73
+
+74
+
+EA CREDIT 4
+
+Option 1:
+
+What is required for the
+Enhanced Refrigerant
+Management Credit?
+
+Do not use refrigerants
+
+EA CREDIT 4
+What are some strategies to
+achieve the Enhanced
+Refrigerant Management
+Credit?
+
+Option 2:
+Select refrigerants & HVAC equipment that minimize
+or eliminate the emission of compounds that
+contribute to ozone depletion & global warming.
+•
+•
+•
+•
+•
+•
+•
+•
+
+75
+
+EA CREDIT 4
+What standards are applicable
+to EA Credit 4?
+
+•
+•
+
+Do not install fire suppression systems with
+ozone depleting substances
+Use natural refrigerants: water, carbon
+dioxide, ammonia
+Use vapor absorption machines for
+refrigeration, where heat recovery is possible.
+Use refrigerants with low ODP & GWP
+Minimize leakage rate
+Use equipment with reduced Rc (refrigerant
+charge)
+Use equipment with “long service life“
+Eliminate use of mechanical cooling where
+possible.
+Clean Air Act 1990
+EPA Montreal Protocol 1987
+
+No.
+
+Questions
+
+Answers
+
+76
+
+EA CREDIT 5
+
+Measurement & Verification
+
+What is EA Credit 5 called?
+77
+
+EA CREDIT 5
+What is the intent of
+Measurement & Verification
+Credit?
+
+78
+
+EA CREDIT 5
+
+Provide for the ongoing accountability of building
+energy consumption over time.
+
+One
+
+How many points are available
+for Measurement &
+Verification?
+79
+
+80
+
+EA CREDIT 5
+
+Four
+
+How many options are there
+for EA Credit 5?
+
+(There are 4 options, A to D, but for LEED we only
+look at B and D).
+
+EA CREDIT 5
+
+Option B:
+
+What is the framework used
+for Measurement &
+Verification?
+
+Energy Conservation Measure (ECM) Isolation.
+or
+Option D:
+Calibrated Simulation, as specified in the
+International
+Performance
+Measurement
+&
+Verification Protocol (IPMVP) Volume III: Concepts
+and Options for Determining Energy Savings in New
+Construction, April 2003.
+
+81
+
+EA CREDIT 5
+
+Option B:
+
+How is energy uses monitored
+in the Measurement &
+Verification Credit?
+
+ECM Isolation measures energy savings & operating
+parameters of the system(s) to which an ECM is
+applied.
+Option D:
+Calibrated Simulation measures energy savings at
+whole building main meters or sub-meters.
+
+82
+
+EA CREDIT 5
+
+•
+
+What are some strategies to
+achieve the Measurement &
+Verification (M &V) Credit?
+
+•
+
+•
+•
+
+Develop an M&V plan to evaluate building
+and/or energy system performance.
+Characterize the building and/or energy
+systems through energy simulation or
+engineering analysis.
+Install the necessary metering equipment to
+measure energy use.
+Track and compare actual performance to
+baseline predicted performance.
+
+No.
+
+Questions
+
+Answers
+
+83
+
+EA CREDIT 6
+
+The Green Power Credit
+
+What is EA Credit 6 called?
+84
+
+What is the intent of the Green
+Power Credit?
+
+Encourage the development and use of grid source
+renewable energy technologies on a net zero
+pollution basis.
+
+EA CREDIT 6
+
+One
+
+EA CREDIT 6
+
+85
+
+How many points are available
+for the Green power?
+Engage in a two-year contract to purchase power
+generated from renewable sources for at least 35%
+What is the requirement for
+the Green Power Credit, where of power.
+green power is available?
+
+86
+
+EA CREDIT 6
+
+87
+
+EA CREDIT 6
+
+88
+
+EA CREDIT 6
+
+Purchase RECs (tradeable Renewable Certificates)
+equivalent to 35% of predicted annual electrical
+What is the requirement for
+the Green Power Credit, where consumption for 2 year period (this equals 70% of
+green power is NOT available? projected annual electrical consumption if all RECs
+are purchased at one time).
+
+What defines renewable
+sources for Green Power?
+
+Center for Resource Solutions (CRS) Green-e
+products certification requirements.
+
+Summarizing……
+Suggested Strategies for Energy and Environment conservation include but not limited to:
+•
+
+Use ASHRAE 90.1-1999 as basis of design to optimize thermal envelope performance.
+
+•
+
+Use energy simulation tools, such as DOE2, Energy 10, Radiance, to optimize
+interactions between building elements and optimize design.
+
+•
+
+Optimize layout and orientation of building to optimize energy performance.
+
+•
+
+Design for appropriate daylighting strategies that reduce heat gain and control glare and
+contrast.
+
+•
+
+Specify efficient lighting fixtures.
+
+•
+
+Specify user controls and ambient condition lighting controls integrated with daylighting.
+
+•
+
+Specify efficient HVAC equipment (high efficiency, appropriately sized, low NOX).
+
+•
+
+Specify EPA Energy Star electrical equipment and appliances.
+
+•
+
+Specify solar water heating and low-flow hot water fixtures and appliances.
+
+•
+
+Specify zoning and controls for mechanical equipment to optimize use.
+
+•
+
+Specify EPA Energy Star™ roofing materials and/or green roofs to reduce cooling loads
+and heat island effect.
+
+•
+
+Develop a commissioning plan and hire an independent Commissioning Agent.
+
+•
+
+Specify HVAC, refrigeration & fire suppression equipment that do not utilize CFCs and
+halons.
+
+•
+
+When reusing existing base building HVAC equipment, develop a comprehensive CFC
+phaseout conversion. Balance ozone depletion potential (ODP) of HCFC alternatives
+with global warming potential (GWP).
+
+•
+
+Evaluate feasibility for and specify cogeneration, fuel cells, renewable energy systems
+(such as photovoltaics, wind, biomass and low impact hydroelectric) and other
+alternative energy sources Design for continued monitoring and verification of system
+performance.
+
+•
+
+Purchase green energy where available that meets the Center for Resource Solutions
+Green-e products certification requirements.
+
+SECTION - 5
+MATERIAL RESOURCES
+Use of sustainable materials can significantly enhance a building's environmental health
+performance. The sustainable harvest of materials enhances the health of habitats and
+increases biodiversity.
+This category encourages owners/designers to take a comprehensive, systematic look at
+material specifications so as to eliminate harmful health effects. The majority of credits in this
+category are gained through reuse and recycling of building materials. Credits are available for:
+reusing existing building structures, reusing or recycling building materials, and diverting
+building materials from disposal for recycling or reuse.
+Credits are also available for using local materials, rapidly renewable materials, and utilizing
+certified wood products. The local material credits emphasize a reduction in environmental
+impact from transportation. The use of rapidly renewable materials eases the depletion of nonrenewable resources.
+No.
+
+Questions
+
+Answers
+
+1
+
+What does MR stand for?
+
+Material Resources
+
+2
+
+What are the goals of Material
+Resources LEED category?
+
+•
+•
+•
+•
+•
+
+Reduce resource depletion.
+Reduce embodied energy.
+Reduce toxics generated throughout the life
+cycle of materials.
+Reduce waste.
+Reduce impact of reuse or disposal of
+building.
+
+3
+
+How many prerequisites,
+credits and points are there in
+the Sustainable Sites?
+
+Prerequisite – 1
+Credits- 7
+Points - 13
+
+4
+
+Name the Prerequisite in MR
+Section.
+
+MR P1- Storage and Collection of Recyclables
+
+5
+
+Name the Credits in the MR
+Section
+
+MR Credit 1- Building Reuse (3 points)
+MR Credit 2 – Construction Waste Management (2
+points)
+MR Credit 3- Materials Reuse (2 points)
+MR Credit 4 – Recycled Materials (2 points)
+MR Credit 5- Regional Materials (2 points)
+MR Credit 6 – Rapidly Renewable Materials (1
+point)
+MR Credit 7- Certified Wood (1 point)
+
+6
+
+What percentage MR
+contributes to overall LEED
+credit points?
+
+19% [13 / 69 x 100]
+
+No.
+
+Questions
+
+Answers
+
+MR PREREQUISITES
+7
+
+MR PREREQ 1
+
+Storage and collection of recyclables.
+
+What is the MR prerequisite?
+8
+
+MR PREREQ 1
+
+•
+
+What is the intent of the MR
+prerequisite?
+
+•
+
+9
+
+What are the various
+collection sources?
+
+10
+
+MR PREREQ 1
+What items must be recycled
+at minimum?
+
+11
+
+MR PREREQ 1
+What are the guidelines that
+govern the minimum recycling
+area?
+
+Reduction in landfill disposal from wasted
+generated by building occupants.
+Provide accessible storage and collection
+locations on site.
+
+Collection Sources:
+• Recycle chutes
+• Collection bins
+• Can crushers
+• Cardboard balers
+•
+•
+•
+•
+•
+
+Glass
+Paper
+Metal
+Plastic
+Cardboards
+
+Rough guidelines based on best practices:
+• 0-5000 sq-ft commercial building: 82 sq-ft
+minimum accessible recycling area
+• 5001-15,000 : 125 sq-ft
+• 15,001-50,000 : 175 sq-ft
+• 50,001-100,000: 225 sq-ft
+• 100,001-200,000: 275 sq-ft
+• 200,000: 500 sq-ft
+
+MR CREDITS
+12
+
+MR CREDIT 1
+
+Building Reuse
+
+What is MR Credit 1 called?
+Three
+How many points are available Credit 1.1: Building Reuse – Maintain 75% of
+Existing Walls, Floors & Roof
+for Building Reuse?
+Credit 1.2: Building Reuse – Maintain 95% of
+Existing Walls, Floors & Roof
+Credit 1.3: Building Reuse – Maintain 50% of Interior
+Non – Structured Elements
+
+13
+
+MR CREDIT 1
+
+14
+
+MR CREDIT 1.1
+What is required for Building
+
+Maintain 75% of existing building structure and
+envelope.
+
+No.
+
+Questions
+
+Answers
+
+Reuse Credit 1.1?
+15
+
+MR CREDIT 1.2
+
+Maintain 95% of existing walls, floors and roof.
+
+What is required for Building
+Reuse Credit 1.2?
+16
+
+MR CREDIT 1.1 & 1.2
+What is the intent of Building
+Reuse Credit 1.1 and 1.2?
+
+17
+
+MR CREDIT 1.1 & 1.2
+Define the extent of coverage
+for implementing MR Credit
+1.1 and 1.2?
+
+18
+
+MR CREDIT 1.1 & 1.2
+When is a Credit 1.1 and
+Credit 1.2 NOT applicable?
+
+•
+•
+•
+•
+
+Extend the life cycle of existing building stock
+Conserve and retain cultural resources
+Reduce waste
+Reduce environmental impact with regards to
+manufacturing materials and their transport
+
+Implementation:
+• Excludes:
+o windows
+o doors
+o non-structural material
+o MEP (mechanical, electrical, plumbing)
+o Elevator equipment
+o hazardous material (which should be
+removed)
+• Includes:
+o Flooring
+o Framing
+o Roof
+o Exterior Structure (envelope)
+• Calculation:
+o USE SQUARE FOOTAGE (sq-ft)
+If the project includes an addition to an existing
+building and the square footage of the addition is
+more than 2 times the square footage of the existing
+building.
+
+MR Credit 1.1 and MR Credit 1.2 are EXACTLY the
+same, except you can earn two points by achieving
+What is the difference
+between MR Credit 1.1 and MR the 95% requirement in MR Credit 1.2.
+Note that credit MR 1.3 should be treated as a
+Credit 1.2?
+SEPARATE credit with different means of
+implementation.
+
+19
+
+MR CREDIT 1.1 & 1.2
+
+20
+
+MR CREDIT 1.3
+
+Maintain 50% of interior non-structural elements.
+
+What is required for Building
+Reuse Credit 1.3?
+21
+
+MR CREDIT 1.3
+
+Interior walls, doors, windows, floor coverings,
+
+No.
+
+22
+
+Questions
+
+Answers
+
+How is interior non-structural
+defined for Building Reuse
+Credit 1.3?
+
+casework and ceiling systems.
+
+MR CREDIT 1.3
+
+Implementation:
+• Excludes:
+o MEP (mechanical, electrical, plumbing)
+o Elevator equipment
+• Includes:
+o walls, partitions, doors, ceilings, and floor
+covering
+• Calculation:
+o USE SQUARE FOOTAGE (sq.ft.)
+Note:
+o Fixed items are things like walls and doors
+found on-site count toward this credit IF
+they are used for the same purpose they
+were intentionally built for, i.e. a door is
+reused as a door.
+o if these items are reused for something
+else, i.e. a door becomes a table, they are
+NOT a part of this calculation
+(They can contribute to credits MR 3.1 and MR 3.2)
+
+Define the extent of coverage
+for implementing MR Credit
+1.3?
+
+23
+
+MR CREDIT 1
+What does LEED prefer
+upgraded in Building Reuse
+Credit?
+
+24
+
+MR CREDIT 2
+
+Upgrade components that would improve energy and
+water efficiency, such as mechanical systems and
+plumbing fixtures.
+
+Construction Waste Management
+
+What is MR Credit 2 called?
+25
+
+26
+
+MR CREDIT 2
+
+•
+
+What is the intent of
+Construction Waste
+Management credits?
+
+•
+•
+
+Divert construction and demolition debris
+from landfills and incinerators.
+Redirect salvage and recyclables back to
+manufacturing process.
+Redirect reusable materials to appropriate
+sites.
+
+Two
+How many points are available Credit 2.1: Construction Waste Management – Divert
+50% from Disposal
+for Construction Waste
+Credit 2.2: Construction Waste Management – Divert
+Management?
+75% from Disposal
+MR CREDIT 2
+
+No.
+
+Questions
+
+Answers
+
+27
+
+MR CREDIT 2
+
+Develop and implement a construction waste
+management plan that identifies materials to be
+diverted from disposal.
+
+What is required for
+Construction Waste
+Management credits?
+28
+
+MR CREDIT 2
+How do you calculate the
+percentage of Construction
+Waste Management Credits?
+
+29
+
+MR CREDIT 2
+Can you donate salvaged
+materials to nonprofits?
+
+30
+
+MR CREDIT 2
+What should be included in
+the specifications to inform
+the contractors and subcontractors of the
+requirements for Construction
+Waste Management?
+
+31
+
+MR CREDIT 2
+What is a strategy for Waste
+Management credits?
+
+32
+
+MR CREDIT 2.1
+
+Calculations can be done by weight or volume, but
+must be consistent throughout.
+
+Yes, LEED even uses habitat for humanity as an
+example.
+
+•
+•
+•
+
+Quantity of waste leaving site
+Description of waste material
+Requirement to identify haulers and recyclers
+
+Designate a specific area on the construction site for
+recycling and tracking efforts throughout the
+construction process.
+Divert 50% from disposal.
+
+What is required for
+Construction Waste
+Management Credit 2.1?
+33
+
+MR CREDIT 2.2
+
+Divert 75% from disposal.
+
+What is required for
+Construction Waste
+Management Credit 2.2?
+34
+
+MR CREDIT 2.1 & 2.2
+Define the extent of coverage
+for implementing MR Credit
+2.1 and MR Credit 2.2?
+
+Implementation:
+• Develop a construction waste management
+plan to at a minimum, identify materials to
+be diverted:
+• salvage, refurbish, recycle, reuse
+• Include:
+o doors and windows
+o salvaged flooring, paneling, cabinetry,
+beams
+o recycled cardboard, metal, brick,
+
+No.
+
+Questions
+
+Answers
+
+•
+
+•
+•
+
+•
+•
+
+35
+
+MR CREDIT 3
+
+acoustical tile, concrete, plastics, clean
+wood, glass, gypsum board, carpet and
+insulation.
+o MEP (mechanical, electrical, plumbing)
+updated
+Exclude:
+o soil, rocks, vegetation
+o hazardous material
+Designate site in construction area for
+separation process
+Track recycling through construction process
+(general contractor to keep records i.e.
+receipts, of recyclable and waste diversion
+pickups)
+Diversion can include donation to charitable
+organizations as well.
+Calculation:
+o Based on WEIGHT (lbs.) or VOLUME
+(cubic ft.)
+
+Materials Reuse
+
+What is MR Credit 3 called?
+36
+
+MR CREDIT 3
+
+•
+
+What is the intent of Materials
+Reuse credits?
+
+•
+
+Two
+How many points are available Credit 3.1: Materials Reuse – 5%
+Credit 3.2: Materials Reuse – 10%
+for Materials Reuse?
+
+37
+
+MR CREDIT 3
+
+38
+
+MR CREDIT 3.1
+What is required for Materials
+Reuse Credit 3.1?
+
+39
+
+MR CREDIT 3.2
+What is required for Materials
+Reuse Credit 3.2?
+
+40
+
+Reuse building materials and products to
+reduce demand for virgin materials.
+Reduce waste, thus reducing impacts
+associated with extracting and processing
+virgin resources.
+
+MR CREDIT 3.1 & 3.2
+Name some materials
+(salvaged items)
+recommended for Materials
+
+Specify 5%
+materials.
+
+Specify 10%
+materials.
+
+salvaged,
+
+salvaged,
+
+refurbished
+
+or
+
+reused
+
+refurbished
+
+or
+
+reused
+
+Inclusions
+• Salvaged items
+- Beams, floors, posts, paneling, doors and
+frames, cabinetry, brick and decorative items
+
+No.
+
+Questions
+Reuse?
+
+Answers
+- Furniture may also be included only is it is
+included consistently through credits MR 3.1
+through MR 7
+• Reused items
+
+•
+41
+
+MR CREDIT 3.1 & 3.2
+What measures are used to
+calculate Materials Reuse
+Credit?
+
+42
+
+43
+
+Refurbished items
+
+Percentage of total cost of building materials (not
+including labor and equipment).
+Total Materials Cost - > 2 options
+45% construction cost (total construction cost of
+entire project multiplied by 0.45)
+OR
+Actual materials cost
+Benefit of using actual material cost rather than
+default 45% is that projects with < 45% actual
+materials cost would find it easier to achieve to 5%
+and 10% (MR3-2) thresholds since equation of
+percent reuse = cost or reuse divided by total
+material cost.
+
+What materials are excluded
+from the calculations for
+Materials Reuse Credit?
+
+Exclusions:
+• Recycled items
+• MEP (mechanical, electrical, plumbing)
+• Specialty items such as elevators and
+equipment
+
+MR CREDIT 4
+
+Recycled Content
+
+MR CREDIT 3.1 & 3.2
+
+What is MR Credit 4 called?
+44
+
+MR CREDIT 4
+What are 2 intents of Recycled
+Content points?
+
+•
+
+and
+
+Increase use of recycled content in building
+
+Two
+How many points are available Credit 4.1: 10% (Post Consumer + ½ Pre Consumer)
+Credit 4.2: 20% (Post Consumer + ½ Pre Consumer)
+for Recycled Content?
+
+45
+
+MR CREDIT 4
+
+46
+
+MR CREDIT 4.1
+What is required for Recycled
+Content Credit 4.1?
+
+47
+
+Intents
+• Reduce impact from extraction
+processing of virgin materials
+
+MR CREDIT 4.2
+What is required for Recycled
+
+Use materials with recycled content such that the
+sum of post-consumer recycled content plus one-half
+of the pre-consumer content constitutes at least
+10% (based on cost) of the total value of the
+materials in the project.
+Use materials with recycled content such that the
+sum of post-consumer recycled content plus one-half
+
+No.
+
+48
+
+Questions
+
+Answers
+
+Content Credit 4.2?
+
+of the pre-consumer content constitutes at least
+20% of the total value of the materials in the project.
+
+MR CREDIT 4.1 & 4.2
+
+Waste materials generated by households or
+commercial, industrial and institutional facilities in
+their role as end-users of the product, which can no
+longer be used for its intended purpose.
+
+What are post-consumer
+materials?
+
+Examples: plastic, paper, glass, and metal
+49
+
+MR CREDIT 4.1 & 4.2
+What are pre-consumer
+materials?
+
+Materials that are diverted from the waste stream
+during the manufacturing process.
+Excluded is reutilization of materials such as
+rework/regrind/scrap that is generated in a process
+and capable of being reclaimed within the same
+process that generated it.
+Examples: wheat straw, sawdust, fly ash.
+
+50
+
+MR CREDIT 4.1 & 4.2
+What materials are excluded
+from the calculations for
+Recycled Content Credit?
+
+51
+
+MR CREDIT 4.1 & 4.2
+Name some materials
+included for recycled content
+credit.
+
+Exclusions:
+• Recycled items
+• MEP (mechanical, electrical, plumbing)
+• Specialty items such as elevators and
+equipment
+Inclusions
+• Anything but MEP and elevator equipment
+that is recycled.
+• Furniture may also be included only if used
+consistently in credits MR 3.1 through MR 7
+• Steel products with no information available,
+assume recycled content to be 25% post
+consumer.
+
+52
+
+Give some examples of
+accumulating LEED points in
+MR Credit 4.
+
+Low Emitting Material: LEED V2.2 awards 1 point
+(Credits 4.1 and 4.2 of “Indoor Environmental
+Quality” area) if the VOC content is less than the
+current limits specified in SCAQMD Rule #1168
+(adhesives) and Green Seal Standard GS-11 (paint),
+and 1 point if the composite wood and agrifiber
+products contain no added urea-formaldehyde
+resins.
+
+53
+
+MR CREDIT 4.1 & 4.2
+What document is used to
+define recycled content?
+
+The International Organization for Standardization
+document, ISO 14021- Environmental labels and
+declarations-Self declared environmental claims
+(Type II environmental labeling)
+
+MR CREDIT 4.1 & 4.2
+
+Establish a project goal and identify material
+
+54
+
+No.
+
+55
+
+Questions
+
+Answers
+
+What is a strategy for
+Recycled Content credits?
+
+suppliers that can achieve this goal.
+
+MR CREDIT 5
+
+Regional Materials
+
+What is MR Credit 5 called?
+56
+
+MR CREDIT 5
+What is the intent of Regional
+Materials credit?
+
+57
+
+MR CREDIT 5
+How does buying locally help
+the environment?
+
+58
+
+MR CREDIT 5
+How does buying locally help
+the economy?
+
+59
+
+MR CREDIT 5
+
+Increase demand for building materials and products
+that are extracted and manufactured within the
+region, thereby supporting the use of indigenous
+resources and reducing the environmental impacts
+resulting from transportation.
+Reduces transportation impacts (fossil fuels, etc.)
+and the accompanying pollution associated with
+transportation.
+The money paid for regional materials stays in the
+region.
+
+Two
+
+How many points are available Credit 5.1: Regional Materials – 10% Extracted,
+Processed and Manufactured Regionally
+for Regional Materials?
+Credit 5.2: Regional Materials – 20% Extracted,
+Processed and Manufactured Regionally
+60
+
+MR CREDIT 5.1
+What is required for Regional
+Materials Credit 5.1?
+
+61
+
+MR CREDIT 5.2
+What is required for Regional
+Materials Credit 5.2?
+
+62
+
+MR CREDIT 5.1 & 5.2
+How is regionally
+manufactured materials
+defined?
+
+63
+
+MR CREDIT 6
+What is MR Credit 6 called?
+
+Use building materials/products that have been
+extracted, harvested or recovered, as well as
+manufactured, within 500 miles of the project site for
+a minimum of 10% of the total materials value.
+Use building materials/products that have been
+extracted,
+harvested
+or
+recovered,
+and
+manufactured, within 500 miles of the project site for
+a total of 20% of the total materials value.
+Regionally manufactured materials refer to the final
+assembly of a finished product within a 500-mile
+radius of the project site.
+
+Rapidly Renewable Materials
+
+No.
+
+Questions
+
+Answers
+
+64
+
+MR CREDIT 6
+
+Reduce use of “long cycle” and finite raw materials.
+
+What is intent of Rapidly
+Renewable Materials Credit?
+65
+
+MR CREDIT 6
+What are examples of longcycle renewables?
+
+66
+
+MR CREDIT 6
+
+Bamboo, wool, cotton insulation, agrifiber, linoleum,
+wheat-board, strawboard and cork.
+
+One
+
+How many points are available
+for Rapidly Renewable
+Materials?
+67
+
+MR CREDIT 6
+What is required for Rapidly
+Renewable Materials Credit?
+
+68
+
+MR CREDIT 6
+How does LEED define
+Rapidly Renewable?
+
+69
+
+MR CREDIT 7
+
+Specify a value of 2.5% rapidly renewable materials
+for the total value of all building materials/products in
+the project.
+Made from plants that are harvested within a ten
+year, or shorter cycle.
+
+Certified Wood
+
+What is MR Credit 7 called?
+70
+
+MR CREDIT 7
+What is the intent of the
+Certified Wood credit?
+
+71
+
+MR CREDIT 7
+
+Encourage environmentally
+management program.
+
+responsible
+
+forest
+
+One
+
+How many points are available
+for Certified Wood?
+72
+
+73
+
+What is required for the
+Certified Wood Credit?
+
+Use a minimum of 50% of wood-based materials
+certified in accordance with the Forest Stewardship
+Council (FSC) Principles and Criteria for wood
+building components.
+
+MR CREDIT 7
+
+Forest Stewardship Council
+
+MR CREDIT 7
+
+What is FSC?
+74
+
+MR CREDIT 7
+What does LEED recommend
+using Certified Wood for?
+
+75
+
+MR CREDIT 7
+
+Structural framing, flooring, finishes, doors and
+furniture.
+
+Yes
+
+No.
+
+Questions
+
+Answers
+
+Is a project eligible for MR
+Credit 7 if only 2 of 4 pieces of
+wood in a building are
+Certified Wood?
+76
+
+MR CREDIT 7
+What does LEED require for
+chain of custody for Certified
+Wood?
+
+77
+
+MR CREDIT 7
+Can Furniture be included in
+MR Credits 3-7?
+
+78
+
+What are the Submittal
+Requirements for MR
+category?
+
+LEED specifically states that to achieve MR Credit 7,
+the Forest Stewardship Council (FSC) chain-ofcustody certificate number must be provided.
+
+Yes, as long as it is used consistently through MR
+Credits 3-7.
+
+All Materials and Resources credits are submitted in
+the construction phase except for prerequisite which
+shall be submitted during design phase.
+
+Summarizing……
+Suggested Strategies for efficient use of Material Resources include but not limited to:
+•
+
+Reuse existing structures.
+
+•
+
+Specify materials free from ozone depleting substances and/or equipment using CFCs,
+HCFCs, and halons, balancing ozone depletion potential (ODP) with global warming
+potential (GWP).
+
+•
+
+Specify materials free from toxic chemicals and that do not release toxic byproducts
+throughout their life cycle, particularly those toxins that are carcinogenic, persistent or
+bioaccumulative. Key materials to avoid include mercury (switching equipment), arsenic
+(pressure treated wood), urea formaldehyde (engineered wood), and asbestos.
+
+•
+
+Specify materials and products that are:
+o
+
+Recycled (preferably with high post consumer content),
+remanufactured or from rapidly renewing sustainable sources.
+
+reused/salvaged,
+
+o
+
+Sustainably harvested (e.g., specify FSC certified wood products).
+
+o
+
+Obtained from local sources.
+
+o
+
+Low in embodied energy.
+
+o
+
+Durable.
+
+o
+
+Low in VOC and/or other chemical emissions in use (see IEQ section).
+
+o
+
+Low maintenance and not requiring toxic materials to maintain and/or operate.
+
+o
+
+Easily reusable, recyclable, compostable, or otherwise biodegradable on disposal.
+
+•
+
+Design for efficient material use i.e., less material use and standard sizes to reduce
+waste
+
+•
+
+Design for adaptability of building design as user needs change (e.g., reusable movable
+office divider walls and raised floor systems to enhance future flexibility)
+
+•
+
+Design for disassembly and recycle or reuse at end of building life
+
+SECTION- 6
+INDOOR ENVIRONMENT QUALITY
+Growing awareness about the relationship between indoor environmental quality -- materials,
+lighting, thermal comfort -- and human health and productivity has catalyzed substantial
+research to support healthier buildings. Eliminating materials identified as allergens, mutagens,
+carcinogens and endocrine disruptors, while providing access to daylight and comfortable
+indoor climate, are fundamental green building elements.
+This LEED category encourages owners and designers to engage in a design process that
+balances the objectives of a well day lit, comfortable, energy efficient and non-toxic indoor
+environment and results in improved productivity and patient outcomes. This LEED category
+focuses on the creation and maintenance of a comfortable, occupant-friendly indoor
+environment with credits for air quality, thermal comfort, day lighting and providing outdoor
+views. Indoor air quality credits are obtained by effectively ventilating the indoor space, utilizing
+low-emitting construction materials (paints, carpets, adhesives), and minimizing the potential for
+pollutants to infiltrate the occupied space. Thermal comfort credits are obtained by providing
+temperature controlled working environment and giving a majority of occupants the capability to
+make adjustments for personal comfort. Day lighting credits are obtained for providing a majority
+of occupants with natural lighting.
+No.
+
+Questions
+
+Answers
+
+1
+
+What does the "E" stand for in
+EQ?
+
+Environmental
+
+2
+
+What are the goals of “Indoor
+Environmental Quality” LEED
+Category?
+
+•
+
+•
+•
+•
+•
+•
+
+Provide an environment for occupants that is
+healthy and encourage rapid patient recovery
+and staff productivity.
+Minimize production and distribution of
+pollutants.
+Provide occupants with access to daylight
+and views.
+Provide energy efficient thermal comfort.
+Provide occupant environmental controls
+(light, view, thermal, ventilation).
+Provide appropriate air changes with
+sufficient percentage of fresh air.
+
+3
+
+How many prerequisites,
+credits and points are there in
+the Environment Category?
+
+•
+•
+•
+
+Prerequisite – 2
+Credits- 8
+Points - 15
+
+4
+
+Name the prerequisites in the
+EQ Section
+
+•
+
+Prerequisite 1- Minimum Indoor Air Quality
+(IAQ) Performance
+Prerequisite 2- Environmental Tobacco
+Smoke (ETS) Control.
+
+•
+5
+
+Name the prerequisites in the
+EQ Section
+
+•
+
+EQ Credit 1- Outdoor Air Delivery Monitoring
+(1 point)
+
+No.
+
+Questions
+
+Answers
+•
+•
+•
+•
+•
+•
+•
+
+6
+
+What percentage EQ
+contribute to overall LEED
+credit points?
+
+EQ Credit 2 - Increased Ventilation (1 point)
+EQ Credit 3 - Construction IAQ Management
+Plan (2 points)
+EQ Credit 4 - Low VOC Emitting Materials (4
+points)
+EQ Credit 5 - Indoor Chemical and Pollutant
+Source Control (1 point)
+EQ Credit 6 - Controllability of Systems (2
+points)
+EQ Credit 7 - Thermal Comfort (2 points)
+EQ Credit 8 - Day Lighting and Views (2
+points)
+
+22% [15 / 69 x 100]
+
+EQ PREREQUISITES
+7
+
+EQ PREREQ -1
+What is the intent of Indoor
+Air Quality Performance
+Prerequisite 1?
+
+8
+
+EQ PREREQ - 1
+What standard sets the
+minimum for minimum IAQ
+performance?
+
+Establish indoor air quality performance to enhance
+indoor air quality in buildings, thus contributing to the
+comfort and well-being of the occupants.
+
+•
+
+•
+
+•
+9
+
+EQ PREREQ - 1
+What are the design strategies
+to address minimum IAQ
+performance?
+
+10
+
+EQ PREREQ - 2
+What does ETS mean?
+
+•
+
+•
+
+Code: Sections 4 through 7 of ASHRAE
+Standard
+62.1-2004
+(some
+low-rise
+residential projects may use ASHRAE 62.22004).
+Mechanical ventilation systems: must be
+designed using the Ventilation Rate
+Procedure or the applicable local code,
+whichever is more stringent.
+Naturally Ventilated buildings: comply with
+ASHRAE 62.1-2004.
+Design ventilation systems to meet or exceed
+minimum outdoor air ventilation rates as
+described in the ASHRAE 62.2-2004
+standard.
+Balance impacts of ventilation rates on
+energy use and IAQ to optimize for energy
+efficiency and occupant health.
+
+Environmental Tobacco Smoke
+
+No.
+
+Questions
+
+Answers
+
+11
+
+EQ PREREQ - 2
+
+Prohibit smoking in the building and locate exterior
+smoking areas at least 25 feet from
+• Entries
+• Outside air intakes and
+• Operable windows.
+
+What are requirements for
+ETS Option1?
+
+12
+
+EQ PREREQ - 2
+What are requirements for
+ETS Option 2?
+
+13
+
+EQ PREREQ - 2
+What are requirements for
+ETS Option3?
+
+14
+
+EQ PREREQ - 2
+What documentation is
+required to obtain the IEQ
+Prerequisite 2 “Environmental
+Tobacco Smoke (ETS)
+Control” credit?
+
+•
+
+•
+
+Prohibit smoking in the building except in
+designated smoking areas and outdoor
+(same rules as option 1 for outdoor).
+Locate designated smoking rooms to
+o Effectively contain, capture, and
+remove ETS from the building,
+o Be directly exhausted to outdoors
+o Enclosed with deck to deck partitions
+o Operate at negative pressure to
+adjacent spaces. (Performance of
+smoking room air differential must be
+verified).
+
+(Residential Only)
+• Prohibit smoking in all common areas
+• Locate exterior smoking areas at least 25 feet
+from entries, air intake, and operable
+windows opening to common areas
+• Minimize ETS transfer between residential
+units by sealing penetrations in walls,
+ceilings, floors, and vertical chasses
+• Weatherstrip all doors leading to hallways in
+residential units unless common hallways are
+pressurized.
+• Test performance per ASTM E779-03.
+•
+•
+
+•
+
+Provide zero exposure to nonsmokers of
+ETS.
+Provide
+drawings
+and
+a
+narrative
+demonstrating
+smoking
+areas
+have
+independent smoking areas
+Provide a letter from the testing engineer
+stating compliance with ASHRAE 129-1997.
+
+EQ CREDITS
+15
+
+EQ CREDIT 1
+
+Outdoor Air Delivery Monitoring
+
+What is EQ Credit 1 called?
+16
+
+EQ CREDIT 1
+What is the intent of the
+
+Provide capacity for ventilation system monitoring to
+sustain occupant comfort and well being.
+
+No.
+
+Questions
+
+Answers
+
+Outdoor Air Delivery
+Monitoring Credit?
+17
+
+EQ CREDIT 1
+
+One
+
+How many points are available
+for Outdoor Air Delivery
+Monitoring?
+18
+
+19
+
+What is required for EQ Credit
+1?
+
+Install permanent monitoring systems to provide
+feedback on ventilation systems, and configure all
+monitoring equipment to generate an alarm when
+the conditions vary by 10% or more from a set point.
+
+EQ CREDIT 1
+
+Densely Monitored Space: > 25 people/1000 sq-ft
+
+EQ CREDIT 1
+
+What is required for
+mechanically ventilated
+spaces for EQ Credit 1?
+
+•
+
+For Non-densely occupied spaces
+•
+
+20
+
+EQ CREDIT 1
+What is required for naturally
+ventilated spaces for EQ
+Credit 1?
+
+21
+
+EQ CREDIT 1
+
+Monitor CO2 levels. Monitor location to be 3′
+to 6′ above floor finish
+Provide direct outdoor airflow measure device
+with an accuracy of ±15% of the design
+minimum outdoor airflow rates, as defined by
+ASHRAE 62.1-2004.
+
+Monitor CO2 concentrations within all naturally
+ventilated spaces. Locate monitors within the room
+between 3 and 6 feet above the floor finish.
+
+ASHRAE Standard 62.1-2004
+
+What ASHRAE standard
+discusses CO2?
+
+22
+
+EQ CREDIT 2
+
+Increased Ventilation
+
+What is EQ Credit 2 called?
+23
+
+EQ CREDIT 2
+What is the intent of the
+Increased Ventilation Credit?
+
+24
+
+EQ CREDIT 2
+
+Provide additional outdoor air ventilation to improve
+indoor air quality.
+
+One
+
+How many points are available
+for Increased Ventilation?
+25
+
+EQ CREDIT 2
+What is required for
+mechanically ventilated
+
+Increase breathing zone outdoor air ventilation rates
+to all occupied spaces by at least 30% above the
+minimum rates required by ASHRAE 62.1-2004
+
+No.
+
+Questions
+
+Answers
+
+spaces for Increased
+Ventilation Credit?
+26
+
+EQ CREDIT 2
+What are the requirements for
+naturally ventilated spaces?
+
+Design in accordance with the Carbon Trust Good
+Practice Guide 237. Determine that natural
+ventilation is an effective strategy by following the
+flow diagram process of the CIBSE Application
+Manual 10:2005 and
+Use diagrams and calculations to show that the
+design of natural ventilation systems meets CIBSE
+Application Manual 10: 2005 OR use models to
+predict that ventilation will meet minimum ASHRAE
+62.1-2004 for 90% of occupied spaces.
+
+27
+
+EQ CREDIT 2
+What are the three basic
+methods for ventilating
+buildings?
+
+28
+
+What codes are applicable in
+meeting the requirements of
+increased ventilation?
+
+Active Ventilation (Mechanical), Passive Ventilation
+(natural), and Mixed-mode Ventilation (both
+mechanical and natural)
+•
+•
+
+•
+
+29
+
+EQ CREDIT 3
+
+ASHRAE
+62.1-2004:
+Ventilation
+for
+Acceptable IAQ
+Carbon Trust Good Practice Guide 237
+(1998): Natural ventilation in non-domestic
+buildings
+CIBSE Application Manual 10 (2005): Natural
+ventilation in non-domestic buildings
+
+Construction IAQ Management Plan
+
+What is EQ Credit 3 called?
+30
+
+EQ CREDIT 3
+
+•
+
+What is the intent of
+Construction IAQ
+Management Plan Credit?
+
+•
+
+Reduce IAQ problems resulting from
+Construction/Renovation process
+Help to sustain comfort and well-being of
+construction workers and building occupants
+
+Two
+How many points are available Credit 3.1: Construction IAQ Management Plan –
+During Construction
+for Construction IAQ
+Credit 3.2: Construction IAQ Management Plan –
+Management Plan?
+Before Occupancy
+
+31
+
+EQ CREDIT 3
+
+32
+
+EQ CREDIT 3.1
+What are the requirements
+under Construction IAQ
+Management Plan?
+
+•
+
+•
+
+StandardsMeet
+or
+exceed
+the
+recommended measures of SMACNA
+guideline for occupied buildings under
+construction, Chapter 3 (2007).
+Protection of on-site absorptive material
+(insulation, carpeting, ceiling tile and drywall)
+
+No.
+
+Questions
+
+Answers
+•
+
+33
+
+EQ CREDIT 3.1
+
+•
+
+What are the strategies for
+achieving EQ Credit 3.1?
+•
+
+•
+
+•
+34
+
+EQ CREDIT 3.2
+
+from moisture damage, and
+If permanently installed air handlers are used
+during construction, filters of Minimum
+Efficiency Reporting Value (MERV) of 8 to be
+used at every return air grill per ASHRAE
+52.2-1999.
+Control pollutant sources
+o spec materials with low VOC’s
+o control exhaust fumes
+Interrupt Contamination Pathways
+o depressurize work areas
+o provide temporary barriers
+Housekeeping activities
+o protect porous surfaces
+o dust control
+Schedule the installation of materials to avoid
+contamination
+
+After construction but before occupancy
+
+When is Credit EQ3.2
+applicable?
+35
+
+EQ CREDIT 3.2
+What are the flush-out
+requirements of Credit EQ3.2
+
+36
+
+37
+
+EQ CREDIT 3.2
+
+•
+
+What are the flush-out
+requirements of Credit EQ3.2,
+if occupancy occurs prior to
+flush out?
+
+•
+
+EQ CREDIT 3.2
+What are the 2 options to
+achieve Construction IAQ
+Management Plan Credit 3.2?
+
+38
+
+EQ CREDIT 3.2
+What standard applies for the
+baseline IAQ test?
+
+39
+
+Supply a total air volume of 14,000 cubic foot (CF) of
+outdoor air per sq-ft of floor area while maintaining
+an internal air temperature of at least 60°F and
+relative humidity no higher than 60%.
+
+EQ CREDIT 3
+What are the strategies for a
+Construction IAQ
+Management Plan?
+
+Supply 3500 CF outside air per sq-ft of floor
+area and ventilate at .30 CF per sq-ft.
+Continue minimum 3 hours until 14,000 CF
+per sq-ft of O/A is delivered.
+Use MERV 13 filters for HVAC
+
+Building flush-out or conduct indoor air quality
+testing.
+
+U.S. EPA Compendium of Methods for
+Determination of Air Pollutants in Indoor Air.
+
+the
+
+Protect the HVAC system during construction,
+control pollutant sources, interrupt pathways for
+contamination, sequence material installation to
+avoid contamination, and flush out or test the
+contaminant levels prior to building occupancy.
+
+No.
+
+Questions
+
+Answers
+
+40
+
+EQ CREDIT 3
+
+Construction Phase
+
+What is the submittal
+requirement for EQ Credit 3?
+
+41
+
+EQ CREDIT 4
+
+Low-Emitting Materials
+
+What is EQ Credit 4 called?
+42
+
+EQ CREDIT 4
+What is the intent of LowEmitting Materials Credit?
+
+Reduce the quantity of indoor air contaminants that
+are odorous, irritating, and/or harmful to the comfort
+and well-being of installers and occupants.
+
+Four
+How many points are available Credit 4.1: Low-Emitting Materials – Adhesives &
+Sealants
+for Low- Emitting Materials?
+Credit 4.2: Low-Emitting Materials – Paint &
+Coatings
+Credit 4.3: Low-Emitting Materials – Carpet Systems
+Credit 4.4: Low-Emitting Materials – Composite
+Wood and Agrifiber Products
+
+43
+
+EQ CREDIT 4
+
+44
+
+EQ CREDIT 4.1
+
+Adhesives & sealants
+
+What materials does EQ
+Credit 4.1 cover?
+45
+
+EQ CREDIT 4.1
+What is the minimum
+requirement for implementing
+EQ Credit 4.1?
+
+46
+
+EQ CREDIT 4.1
+What materials are applicable
+for EQ Credit 4.1?
+
+47
+
+EQ CREDIT 4.1
+What is the standard for EQ
+4.1?
+
+48
+
+EQ CREDIT 4.2
+
+All ADHESIVES and SEALANTS used in interior of
+building (inside weather proofing system & applied
+on-site) are to comply with South Coast Air Quality
+Management District (SCAQMD) Rule #1168 and
+Green Seal (GS) Standard for Commercial
+Adhesives GS-36.
+Flooring adhesives, fire-stopping sealants, caulking,
+duct sealants, plumbing adhesives, and cove base
+adhesives.
+•
+
+•
+
+South Coast Air Quality Management District
+Rule #1168 July 1, 2005 and note January 7,
+2005.
+Green Seal (GS) Standard for Commercial
+Adhesives GS-36.
+
+Paints & coatings
+
+What materials does EQ
+Credit 4.2 cover?
+49
+
+EQ CREDIT 4.2
+
+All paints, coatings and primer used in interior of
+
+No.
+
+50
+
+Questions
+
+Answers
+
+What are the standards for
+IEQ 4.2?
+
+building to comply with following:
+• PAINTS : Green Seal (GS) 11
+• Anti-Corrosive and Anti-Rust Paints applied
+to interior ferrous metal: Green Seal’s GS-03.
+• Clear Wood Finishes, Floor Coatings, Stains,
+Sealers, Shellacs: South Coast Air Quality
+Management District (SCAQMD) Rule 1113.
+
+EQ CREDIT 4.3
+
+Carpet systems
+
+What material does EQ Credit
+4.3 cover?
+51
+
+52
+
+What is the standard for EQ
+4.3?
+
+All carpets and carpet cushions installed in building
+interior shall meet testing and product requirement of
+the Carpet and Rug Institute’s Green Label Program.
+All carpet adhesives must meet the requirements of
+EQ4.1.
+
+EQ CREDIT 4.4
+
+Composite wood & agrifiber products
+
+EQ CREDIT 4.3
+
+What materials does EQ
+Credit 4.4 cover?
+53
+
+EQ CREDIT 4.4
+How are composite wood and
+agrifiber products defined?
+
+54
+
+EQ CREDIT 4.4
+What is the standard for EQ
+4.4?
+
+55
+
+56
+
+Particleboard, medium density fiberboard (MDF),
+plywood, wheatboard, strawboard, panel substrates,
+and door cores. Materials considered fit-out,
+furniture, and equipment (FF&E) are not included.
+Products must contain NO added urea
+formaldehyde resins.
+
+What are the strategies to
+meet EQ Credit 4?
+
+Specify low-volatile organic compounds (VOC)
+materials in construction documents. Ensure that
+VOC limits are clearly stated in each section where
+adhesives and sealants are addressed.
+
+EQ CREDIT 5
+
+Indoor Chemical & Pollutant Source Control
+
+EQ CREDIT 4
+
+What is EQ Credit 5 called?
+57
+
+EQ CREDIT 5
+What is the intent of Indoor
+Chemical & Pollutant Source
+Control Credit?
+
+58
+
+EQ CREDIT 5
+How many points are available
+for Indoor Chemical &
+
+Minimize exposure of building occupants to
+potentially hazardous particulates and chemical
+pollutants.
+
+One
+
+No.
+
+Questions
+
+Answers
+
+Pollutant Source Control?
+59
+
+EQ CREDIT 5
+What is the requirement of EQ
+Credit 5?
+
+•
+•
+•
+
+•
+
+•
+60
+
+EQ CREDIT 5
+What is required for Indoor
+Chemical & Pollutant Source
+Control Credit?
+
+61
+
+EQ CREDIT 5
+What are the strategies to
+meet EQ Credit 5?
+
+62
+
+EQ CREDIT 5
+What codes and standards
+apply to EQ Credit 5?
+
+63
+
+EQ CREDIT 6
+
+Minimize and control pollutant entry
+Minimize Cross contamination between
+occupied areas
+Install permanent entryway systems at least
+6′-0" long to capture dirt
+o grates
+o grills
+Exhaust rooms where hazardous chemicals
+are stored
+o keep negative pressure at .50 cfm/sq-ft
+If Mechanically Vented , installed filters
+should have MERV 13 rating or better
+
+Permanent entry way systems to capture dirt (roll
+mats okay only if weekly cleaning service); provide
+areas with deck-to-deck partitions with separate
+outside exhausting (hard lid ceiling ok ay instead of
+deck-deck partitions; -5 PA necessary temperature);
+In mechanically ventilated buildings, MERV 13 filters
+used at every return and outside air that is to be
+used for supply air.
+Design separate exhaust and plumbing systems for
+rooms with contaminants to achieve physical
+isolation from the rest of the building; install
+permanent architectural entryway systems such as
+grills and grates; Install high-level filtration systems
+in air handling units processing both return air and
+outside supply air.
+ASHRAE 52.2-1999: Method of Testing General
+Ventilation Air Cleaning Devices for Removal
+Efficiency by Particle Size.
+
+Controllability of Systems
+
+What is EQ Credit 6 called?
+Two
+How many points are available Credit 6.1: Controllability of Systems – Lighting
+for Controllability of Systems? Credit 6.2: Controllability of Systems – Thermal
+Comfort
+
+64
+
+EQ CREDIT 6
+
+65
+
+EQ CREDIT 6.1
+What is the intent of
+Controllability of Systems
+
+Provide a high level of lighting system control by
+individual occupants or by specific groups in multioccupant spaces to promote productivity, comfort,
+
+No.
+
+66
+
+Questions
+
+Answers
+
+Credit 6.1?
+
+and well-being of building occupants.
+
+EQ CREDIT 6.1
+What is the requirement of EQ
+6.1?
+
+67
+
+EQ CREDIT 6.2
+What is the intent of Credit
+6.2?
+
+68
+
+•
+
+•
+
+Provide a high level of thermal comfort system
+control by individual occupants or by specific groups
+in multi-occupant spaces to promote productivity,
+comfort, and wellbeing of building occupants.
+
+EQ CREDIT 6.2
+
+•
+
+What is the requirement of EQ
+6.2?
+
+•
+
+•
+
+69
+
+70
+
+EQ CREDIT 6.2
+
+•
+
+What standard describes
+thermal comfort?
+
+•
+
+EQ CREDIT 6.2
+How is comfort system
+control defined for
+Controllability of Systems?
+
+71
+
+EQ CREDIT 6.2
+What are strategies to achieve
+Controllability of Systems
+Credit?
+
+72
+
+EQ CREDIT 7
+What is EQ Credit 7 called?
+
+Provide individual lighting controls for 90% of
+the building occupants to enable adjustments
+to suit individual task needs
+Provide multi-occupant lighting system
+controls that meet group needs and
+preferences.
+
+Provide individual comfort controls for 50% of
+the building occupants.
+Operable windows can be used instead if
+o occupants are stationed within 20 feet
+inside of and 10 feet to either side of the
+operable part of the window
+o meets the meets standards of ASHRAE
+62.1-2004 for natural ventilation
+Provide thermal comfort controls for multioccupancy rooms, adjustable to suit needs of
+various groups to occupy the space. Maintain
+relative humidity levels between 30%-60%.
+o thermal comfort conditions under
+ASHRAE 55-2004
+ASHRAE
+62.1-2004:
+Ventilation
+for
+Acceptable Indoor Air Quality
+ASHRAE 55-2004: Thermal Environmental
+Conditions for Human Occupancy
+
+Control over one of the following factors: air
+temperature, radiant temperature, air speed, and
+humidity.
+
+Design for occupant controls: lighting controls and
+task lighting, operable windows, underfloor HVAC
+with individual diffusers.
+
+Thermal Comfort
+
+No.
+
+Questions
+
+73
+
+EQ CREDIT 7
+
+74
+
+EQ CREDIT 7.1
+
+Two
+How many points are available Credit 7.1: Thermal Comfort – Design
+Credit 7.2: Thermal Comfort- Verification
+for Thermal Comfort?
+
+What is IEQ Credit 7.1 called?
+75
+
+EQ CREDIT 7.1
+What is the intent of Thermal
+Comfort Credit 7.1 Design?
+
+76
+
+Answers
+
+EQ CREDIT 7.1
+
+Thermal Comfort – Design (Indoor Environment Air
+Quality)
+Provide a comfortable thermal environment that
+supports the productivity and well-being of building
+occupants.
+•
+
+What is the requirement of EQ
+Credit 7.1?
+•
+
+•
+77
+
+EQ CREDIT 7.2
+
+Design HVAC and building envelope to
+comply with ASHRAE standard 55-2004,
+Thermal Comfort Conditions for Human
+Occupancy.
+Evaluate air temperature, radiant temp, air
+speed, relative humidity.
+Coordinate with EQ P1. EQ 1 & EQ 2.
+
+Thermal Comfort, Verification
+
+What is IEQ Credit 7.2 called?
+78
+
+EQ CREDIT 7.2
+What is the requirement of EQ
+Credit 7.2?
+
+79
+
+EQ CREDIT 7.1 and 7.2
+What are the strategies to
+achieve Thermal Comfort
+Credits 7.1 and 7.2?
+
+80
+
+EQ CREDIT 8
+
+•
+
+•
+
+Survey within 6-18 months after occupancy
+for anonymous responses of overall
+satisfaction of thermal performance.
+Develop a plan for corrective action if the
+survey results indicate that more than 20% of
+occupants are dissatisfied with the thermal
+comfort in the building. Plan should be in
+accordance with ASHRAE 55-2004.
+
+Establish comfort criteria according to ASHRAE 552004 and design building envelope and systems
+capable of maintaining criteria expectations.
+
+Daylight & Views
+
+What is EQ Credit 8 called?
+Two
+How many points are available Credit 8.1: Daylight and Views – Daylight 75% of
+Spaces
+for Daylight & Views?
+Credit 8.2: Daylight and Views – Views for 90% of
+Spaces
+
+81
+
+EQ CREDIT 8
+
+82
+
+EQ CREDIT 8
+
+Provide for the building occupants a connection
+
+No.
+
+83
+
+Questions
+
+Answers
+
+What is the intent of Daylight
+& Views Credit?
+
+between indoors spaces, and the outdoors through
+the introduction of daylight and views into the
+regularly occupied areas of the building.
+
+EQ CREDIT 8.1
+
+•
+
+What is the requirement of EQ
+8.1?
+•
+
+•
+
+•
+
+84
+
+EQ CREDIT 8.1
+
+Option 1 – Glazing Factor Calculation
+o Achieve min. 2% glazing factor in
+minimum of 75% of regularly occupied
+areas.
+Option 2 – Daylight Simulation Model
+o Through
+computer
+simulation,
+demonstrate min. daylight illumination
+level of 25 footcandles in min of 75% of
+regularly occupied areas.
+Option 3 – Daylight Measurement
+o Through
+records of indoor light
+measurements, demonstrate daylight
+illumination level of 25 footcandles in
+min. of 75% of regularly occupied areas.
+All Cases
+o Only area associated with room (actual
+square footage) can be applied toward
+the 75% total area calculation
+o provide daylight redirection and/or glare
+control devices
+
+7'6''
+
+At what height and above are
+window areas considered
+daylight glazing?
+85
+
+EQ CREDIT 8.1
+What areas are excluded from
+EQ Credit 8.1?
+
+86
+
+EQ CREDIT 8.1
+What task areas are excluded
+from EQ Credit 8.1?
+
+87
+
+EQ CREDIT 8.2
+What is the requirement of EQ
+8.2?
+
+88
+
+EQ CREDIT 8.2
+Between what heights are
+windows considered vision
+glazing?
+
+Copy rooms, storage areas, mechanical, laundry and
+other low occupancy support areas.
+
+Spaces where tasks would be hindered by the use of
+daylight.
+
+Achieve direct line of sight to the outdoor
+environment via vision glazing from 90% of all
+regularly occupied spaces.
+Glazing between 2'-6'' to 7'-6''
+Plan View:
+• Area within sight lines drawing from perimeter
+vision glazing.
+Section View:
+
+No.
+
+Questions
+
+Answers
+•
+
+89
+
+EQ CREDIT 8.2
+What are the techniques to
+achieve Daylight & Views
+Credit?
+
+90
+
+EQ CREDIT 8.2
+What are the strategies to
+achieve Daylight & Views
+Credit?
+
+91
+
+EQ CREDIT 8.2
+What techniques verify
+Daylight & Views Credit?
+
+92
+
+EQ CREDIT (GENERAL)
+What is the biggest area of
+improvement to avail EQ
+Credits?
+
+Direct line of sight can be drawn from area to
+perimeter vision glazing.
+
+Design the building to maximize daylighting and view
+opportunities.
+
+Building orientation, shallow floor plates, increased
+perimeter, lower partition heights, interior and
+exterior shading devices, high performance glazing
+and photo integrated light sensors.
+Glazing Factor Calculations OR physical or computer
+modeling to assess footcandle and daylight factors.
+
+HVAC
+It has opportunity to gain up to 7 credits in:
+• Outdoor Air Delivery Monitoring
+• Increased Ventilation
+• Construction IAQ Management Plan (during
+construction)
+• Construction IAQ Management Plan (before
+occupancy)
+• Controllability of Systems (Thermal Comfort)
+• Thermal Comfort (Design)
+• Thermal Comfort (Verification)
+
+Summarizing……
+Suggested Strategies for Indoor Environment Quality include but not limited to:
+•
+
+Ensure high quality indoor air by meeting or exceeding ASHRAE 62-1999 as a basis of
+design.
+
+•
+
+Ensure thermal comfort by meeting or exceeding ASHRAE 55-1992 as a basis of
+design.
+
+•
+
+Specify low VOC / low toxic finishes and materials, such as Green Seal-certified paints;
+composite wood and agrifiber products with no added urea-formaldehyde resins; carpet
+systems certified by Carpet & Rug Institute Green Label Program; adhesives meeting
+South Coast Air Quality Management District guidelines; flooring, ceiling wall covering,
+paints and other interior finishes and materials meeting Washington State indoor air
+quality guidelines.
+
+•
+
+Minimize use of carpets and other materials that attract, absorb and re-release indoor
+pollutants.
+
+•
+
+Specify permeable wall covering and other materials to prevent trapping of water and
+microbial growth.
+
+•
+
+Establish green housekeeping protocols.
+
+•
+
+Design to reduce pest infestation opportunities.
+
+•
+
+Install permanent entryway systems (e.g., grates) to trap dirt and particulates.
+
+•
+
+Position air intakes to prevent contamination from vehicle exhaust and other sources
+paying attention to prevailing winds.
+
+•
+
+Assure easy access to inspect and clean filters and ductwork in each straight run.
+
+•
+
+Ventilate enclosed parking areas and other source areas (smoking areas, housekeeping,
+copying rooms, hazardous waste).
+
+•
+
+If building cannot be 100% non smoking, provide total environmental separation for non
+smokers and assure no feed in to ventilation system.
+
+•
+
+Provide building occupants access to daylight, views and operable windows where
+appropriate.
+
+•
+
+Provide user controls for airflow, temperature, light (integrated with daylighting - see also
+Energy section).
+
+•
+
+Provide carbon dioxide monitoring system to provide feedback on space ventilation
+performance.
+
+•
+
+Specify materials, products, mechanical systems and design features to attenuate sound
+and vibration, and not to exceed Room Criteria (RC) ratings listed for Hospital and
+Clinics in Table 34 of Chapter 46, Sound and Vibration Control, 1999 ASHRAE
+Application Handbook.
+
+SECTION - 7
+INNOVATION AND DESIGN PROCESS
+Every building is a unique blend of site, program, people, budget, with a unique set of
+challenges and opportunities. Innovative, integrative design practices recognize that new
+solutions emerge from a process of creative problem solving and "thinking out of the box".
+Currently, projects pursuing LEED Certification have the opportunity to earn up to four points for
+two types of credits in the Innovation & Design Process (ID) credit category: exemplary
+performance related to existing LEED credits and innovative performance.
+LEED ID Credit 1 - Innovations in Design credits for innovative performance are awarded up to
+4 points in one of two ways:
+•
+
+By significantly exceeding the requirements of the rating system, or
+
+•
+
+Alternatively by demonstrating innovation by a method that is not specifically addressed
+by current LEED rating systems.
+
+As a general rule of thumb, ID credits for exceptional performance are awarded for doubling the
+credit requirements and/or achieving the next incremental percentage threshold. For instance,
+an ID credit for exemplary performance in water use reduction (WE Credit 3) would require a
+minimum of 40% savings (20%=WE Credit 3.1; 30%=WE Credit 3.2, etc.).
+Note that the LEED ID Credits are evaluated for each project. It is important to note that the
+award of an ID Credit for one project at a specific point in time does not constitute automatic
+approval for a similar strategy in a future project. Innovation credits are not awarded for the use
+of a particular product or design strategy if the technology aids in the achievement of an existing
+LEED credit.
+LEED ID Credit 2 - One credit may be obtained in this category if a participant on the project
+team holds LEED accreditation. Please note that only one point is awarded regardless of how
+many LEED Accredited Professionals are on the team.
+No.
+
+Questions
+
+Answers
+
+1
+
+What does ID stand for?
+
+Innovation & Design Process
+
+2
+
+How many prerequisites,
+credits and points are there in
+the Innovation and Design
+Category?
+
+3
+
+What percentage ID
+contributes to overall LEED
+credit points?
+
+•
+•
+•
+
+Prerequisite – 0
+Credits- 2 credits [ID Credit 1 and 2]
+Points - 5 points [4 points for ID Credit 1 and
+1 point for ID Credit 2]
+
+7% [5 / 69 x 100]
+
+ID CREDITS
+4
+
+ID CREDIT 1
+What is ID Credit 1 called?
+
+Innovation in Design
+
+No.
+
+Questions
+
+Answers
+
+5
+
+ID CREDIT 1
+
+To provide points for exceptional performance above
+the requirements set by LEED and/or innovative
+performance categories not addressed by LEED.
+
+What is the intent of ID Credit
+1?
+6
+
+ID CREDIT 1
+
+Four
+
+How many points are available
+in ID Credit 1?
+7
+
+ID CREDIT 1
+What are the requirements for
+each Innovation and Design
+point?
+
+8
+
+ID CREDIT 1
+What are the Submittal
+Requirements for ID Credit 1?
+
+9
+
+ID CREDIT 1
+Give few examples of ID
+Credits for innovative
+performance.
+
+10
+
+ID CREDIT 2
+
+In writing, identify the intent of the proposed
+innovation,
+the
+proposed
+requirement
+for
+compliance, and the proposed submittals to
+demonstrate compliance, and the design approach
+that might be used to meet the requirements.
+When submitting an ID credit, project teams must
+outline the proposed credit intent, requirement(s) for
+compliance, and
+submittal(s)
+necessary
+to
+demonstrate compliance, as well as provide a
+summary of potential design approaches that may be
+used to meet the requirements.
+All submittals shall be furnished during design stage.
+A representative list of innovative performance ID
+credits:
+• Low-Emitting Furniture & Furnishings
+• Organic Landscaping / Integrated Pest
+Management Program
+• IAQ testing that goes beyond LEED
+requirements
+• Managing water and air effluent (managing
+exhaust, heat recovery, exterior catch basins,
+aim towards zero discharge)
+• Passive natural ventilation (thermal chimney,
+eliminating mechanical ventilation)
+• Employee wellness (fitness center, game
+room, first aid examination rooms etc)
+• Educational Outreach Program
+• Green Housekeeping
+• High Volume Fly Ash Construction
+
+LEED Accredited Professional
+
+What is ID Credit 2 called?
+11
+
+ID CREDIT 2
+What is the intent of ID Credit
+
+To support and encourage the design integration
+required by a LEED-NC green building project and to
+
+No.
+
+12
+
+Questions
+
+Answers
+
+2?
+
+streamline the application and certification process.
+
+ID CREDIT 2
+
+One
+
+How many points are available
+in ID Credit 2?
+13
+
+ID CREDIT 2
+What is the requirement for ID
+Credit 2?
+
+14
+
+ID CREDIT 2
+What are the Submittal
+Requirements for ID Credit 2?
+
+One credit may be obtained in this category if a
+participant on the project team holds LEED
+accreditation.
+[Consider assigning at least one principal participant
+to the project team who has successfully completed
+one of the three LEED Accredited Professional
+examination tracks (NC, EB, CI)].
+Provide name of LEED AP, company, brief
+description of his/her role, and copy of LEED AP
+Certificate.
+
+
