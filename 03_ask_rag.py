@@ -4,7 +4,7 @@ import numpy as np
 import json
 from config import *
 
-embeddings_json= "knowledge_pool/LEED_Certification_Guidebook_March_2011.json"
+embeddings_json= "knowledge_pool/merged_output.json"
 
 # Choose between "local" or "openai" mode
 mode = "local" # or "local"
@@ -13,9 +13,10 @@ client, completion_model = api_mode(mode)
 # question = "What is the program for the building?"
 # question = "What is the place like?"
 # question = "Is there any mention of the construction materials that should be used?"
-question = "generate a prompt to visualise a LEED building ?"
+question = "The image features a modern building with a contemporary design. The facade is predominantly made of glass and metal, creating an aesthetically pleasing and reflective surface. The use of these materials allows for significant energy savings as they have low heat absorption properties. \n\nThe glass can be tinted or coated to reduce the amount of sunlight entering the building, thus minimizing energy consumption during hotter periods of the year. Additionally, the metal used in the construction can be made of recyclable materials, reducing the environmental impact during the building's life cycle. \n\nAnother important factor is the integration of efficient lighting systems inside the building. Proper lighting not only enhances the building's functionality but also reduces energy consumption by utilizing LED lights or other energy-efficient solutions. This can lead to substantial energy savings and contribute to a more sustainable environment.\n\nFurthermore, the building can be designed with features such as solar panels, green roofs, or other renewable energy systems to further reduce its carbon footprint. By incorporating these technologies, the building can harness renewable energy sources and become more self-sufficient in terms of power production.\n\nIn conclusion, the image showcases a building that is not only aesthetically pleasing with its contemporary design but also highly functional and environmentally friendly. It demonstrates how the use of modern materials like glass and metal, as well as the integration of renewable energy solutions, can contribute to a more sustainable urban landscape check if this prompt comply with LEED values"
 
-num_results = 10 #how many vectors to retrieve
+
+num_results = 20 #how many vectors to retrieve
 
 
 def get_embedding(text, model=embedding_model):

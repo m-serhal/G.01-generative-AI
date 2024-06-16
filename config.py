@@ -91,7 +91,7 @@ llama3 = [
 def api_mode (mode):
     if mode == "local":
         client = local_client
-        completion_model = mistral_7b #whatever model you want to use
+        completion_model = llama3 #whatever model you want to use
         return client, completion_model
     elif mode == "openai":
         client = openai_client

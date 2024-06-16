@@ -3,7 +3,7 @@ import json
 import os
 from config import *
 
-document_to_embed = "knowledge_pool/LEED_Certification_Guidebook_March_2011.txt"
+document_to_embed = "knowledge_pool/LEED v4 BDC_07.25.19.txt"
 
 def get_embedding(text, model=embedding_model):
    text = text.replace("\n", " ")
